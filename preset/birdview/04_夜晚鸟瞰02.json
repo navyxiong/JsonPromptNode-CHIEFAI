@@ -3,22 +3,21 @@
     "camera_and_perspective": {
       "view_angle": "Expansive Aerial Panorama, High-angle drone shot, Cityscape establishing shot",
       "lens_attributes": "Wide-angle 24mm, Distortion-free, High sharpness edge-to-edge, Deep depth of field (f/8 - f/11)",
-      "depth_of_field": "Infinite focus, Sharp details from foreground to distant background"
+      "depth_of_field": "Infinite focus, Sharp details from foreground to distant sky"
     },
     "lighting_and_atmosphere": {
-      "time_of_day": "Night (Post-Blue Hour), Deep Night but with visible sky",
-      "light_quality": "High Dynamic Range, High-intensity Artificial City Glow, Point-source specularity (sparkle), Medium Contrast (Chiaroscuro), Light Pollution Haze",
+      "time_of_day": "Night (Blue Hour), Night but with visible sky",
+      "light_quality": "High-intensity Artificial City Glow, Point-source specularity (sparkle), High Contrast (Chiaroscuro), Light Pollution Haze",
       "weather_conditions": "Clear night with slight urban atmospheric scattering (glow around bright lights), Excellent visibility",
-      "shadow_style": "Deep crushed blues in unlit areas, Sharp artificial shadows, High contrast betwen light sources and dark void"
+      "shadow_style": "Soft crushed blacks in unlit areas, Sharp artificial shadows, Medium contrast betwen light sources and dark void"
     },
     "architectural_lighting": {
       "interior_illumination": "Warm tungsten window spill, but secondary to exterior lighting. Focus on 'Occupancy Glow'",
-      "exterior_facade_effects": "Heavy use of 'Wall Washing' with Warm Golden floodlights (Sodium Vapor/Warm LED style), Illuminated landmark structures (e.g., Ferris Wheel), Linear outline lighting on high-rises"
+      "exterior_facade_effects": "Heavy use of 'Wall Washing' with Warm Golden floodlights (Sodium Vapor/Warm LED style), Illuminated building facade, Linear outline lighting on buildings"
     },
     "landscape_lighting": {
-      "hardscape_illumination": "Long-exposure traffic light trails (streaks of red and white), Brightly illuminated river promenades, Bridge structure highlighting",
-      "vegetation_highlighting": "Mostly silhouetted dark masses, Occasional uplighting on park trees creating green/yellow contrast",
-      "water_feature_effects": "N/A (or Highly reflective surface mirroring the burning sun if present)"
+      "hardscape_illumination": "Long-exposure traffic light trails (streaks of red and white), Brightly illuminated along road",
+      "vegetation_highlighting": "Occasional uplighting on park trees creating green/yellow contrast"
     },
     "color_and_grading": {
       "palette_theme": "Classic Teal & Orange (Night Version): Royal Blue/Navy Sky vs Golden/Copper City Lights",
@@ -27,12 +26,12 @@
     },
     "rendering_tech_specs": {
       "engine_style": "V-Ray Night Rendering, Corona Renderer (LightMix), Unreal Engine 5",
-      "artistic_medium": "Fine Art Aerial Photography, Travel & Tourism Promotional Imagery",
+      "artistic_medium": "High dynamic Photography, Fine Art Aerial Photography, Travel & Tourism Promotional Imagery",
       "detail_level": "8k resolution, Pin-sharp light sources, Rich texture in illuminated masonry"
     },
     "environment_textures": {
-      "ground_surface": "Asphalt roads glowing from streetlights, Dense urban fabric",
-      "foliage_style": "Dark, muted urban greenery"
+      "ground_surface": "Dark road with light streaks, Asphalt roads glowing from streetlights, Dense urban fabric",
+      "foliage_style": "Dark, muted urban greenery, low visibility compared to architecture"
     }
   }
 }

@@ -3,12 +3,12 @@
     "camera_and_perspective": {
       "view_angle": "Wide-angle Aerial Drone Shot, 45° Bird's eye view, Establishing cityscape shot",
       "lens_attributes": "24mm Wide-angle lens, Rectilinear projection, High sharpness edge-to-edge, Slight perspective compression bringing the background skyline closer",
-      "depth_of_field": "Deep focus, Hyperfocal distance, Sharp details from foreground office park to distant CBD skyline"
+      "depth_of_field": "Deep focus, Hyperfocal distance, Sharp details from foreground  to background"
     },
     "lighting_and_atmosphere": {
       "time_of_day": "Early Twilight / Soft Sunset (Sun is behind clouds), Magic Hour transition",
       "light_quality": "Soft Diffuse Global Illumination (GI), No harsh directional sunlight, Wrap-around soft light, Low contrast lighting",
-      "weather_conditions": "Partly cloudy with pastel colored clouds (Pink/Lavender/Soft Blue), Hazy atmosphere adding depth to the skyline, Gentle visibility",
+      "weather_conditions": "Partly cloudy with pastel colored clouds (Pink/Lavender/Soft Blue), Hazy atmosphere adding depth to the sky, Gentle visibility",
       "shadow_style": "Very soft ambient occlusion, Faint cast shadows (almost non-existent), Diffuse shading on building facades"
     },
     "architectural_lighting": {

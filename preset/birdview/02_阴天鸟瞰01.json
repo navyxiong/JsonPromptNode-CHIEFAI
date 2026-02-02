@@ -1,0 +1,38 @@
+{
+  "style_extraction_template": {
+    "camera_and_perspective": {
+      "view_angle": "High-angle drone shot, Central perspective looking down a street axis, Mid-range urban context",
+      "lens_attributes": "35mm equivalent, Rectilinear projection (Vertical lines kept straight), Low distortion, Natural perspective",
+      "depth_of_field": "Deep focus, Infinite depth of field, Sharp details from foreground rooftops to background skyscrapers"
+    },
+    "lighting_and_atmosphere": {
+      "time_of_day": "Mid-day, Overcast (Noon but cloudy)",
+      "light_quality": "High-Key Lighting (bright flat light), Giant Softbox effect, Very soft global illumination, Shadowless aesthetic, Even exposure",
+      "weather_conditions": "Solid Overcast Sky (Blown-out highlights), Hazy white horizon, No direct sun visibility",
+      "shadow_style": "Minimal soft ambient occlusion only, No distinct cast shadows, 'Clay Render' lighting feel"
+    },
+    "architectural_lighting": {
+      "interior_illumination": "None (Daylight dominant), Windows appear dark/neutral grey due to high exterior brightness",
+      "exterior_facade_effects": "Natural diffuse daylight revealing material textures (brick, concrete, stone) without harsh specular highlights"
+    },
+    "landscape_lighting": {
+      "hardscape_illumination": "Natural flat daylight, No artificial lighting active",
+      "vegetation_highlighting": "Soft ambient top-light on trees, No subsurface scattering effects due to lack of direct sun",
+      "water_feature_effects": "N/A"
+    },
+    "color_and_grading": {
+      "palette_theme": "High-Key Desaturated, Scandinavian Minimalist, Dominant Off-White/Beige/Light Grey with Muted Terracotta/Brick accents",
+      "temperature": "Neutral Daylight (5500K) leaning towards Cool White/Clinical tone",
+      "post_processing": "Low Contrast (Flat curve), Matte finish, Overexposed sky (Pure White #FFFFFF), De-saturated Greens and Reds, Clean Commercial look"
+    },
+    "rendering_tech_specs": {
+      "engine_style": "Corona Renderer (High-Albedo materials), V-Ray 6 (Dome Light only), Chaos Vantage",
+      "artistic_medium": "Photorealistic Architectural Survey, 'White Model' aesthetic but textured, Clean Real Estate Photography",
+      "detail_level": "8k resolution, Pristine textures, Sharp geometric edges, No atmospheric noise/grain"
+    },
+    "environment_textures": {
+      "ground_surface": "Dry light-grey asphalt roads, Traditional terracotta tiled rooftops (muted orange), Concrete flat roofs with HVAC equipment",
+      "foliage_style": "Urban street trees with Desaturated Olive Green leaves, Uniform canopy texture"
+    }
+  }
+}

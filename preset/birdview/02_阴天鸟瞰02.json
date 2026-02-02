@@ -1,0 +1,37 @@
+{
+  "style_extraction_template": {
+    "camera_and_perspective": {
+      "view_angle": "High-angle Drone Shot, 45° Bird's Eye View, Establishing Shot centering the main structure",
+      "lens_attributes": "24mm Wide-angle lens, Rectilinear projection, High sharpness, Minimal distortion",
+      "depth_of_field": "Deep focus, Hyperfocal distance, Sharp details from foreground plaza to distant hazy mountains"
+    },
+    "lighting_and_atmosphere": {
+      "time_of_day": "Bright Overcast, Mid-day (High Noon but cloudy)",
+      "light_quality": "High-Key Lighting (bright flat light), Giant Softbox effect, Even global illumination, No harsh directional shadows",
+      "weather_conditions": "Solid White Overcast Sky (Blown-out highlights), Hazy atmospheric perspective in background, Soft bright atmosphere",
+      "shadow_style": "Minimal soft ambient occlusion (AO) only, No distinct cast shadows, 'Clay Render' lighting feel"
+    },
+    "architectural_lighting": {
+      "interior_illumination": "Subtle warm tungsten glow (3000K) at the low floor of buildings, creating a focal point against the cool exterior",
+      "exterior_facade_effects": "Natural diffuse daylight reflecting on glass, emphasizing geometric forms without specular glare"
+    },
+    "landscape_lighting": {
+      "hardscape_illumination": "Natural flat daylight, Even illumination on buildings",
+      "vegetation_highlighting": "Soft ambient light on manicured lawns, vibrant but desaturated greens"
+    },
+    "color_and_grading": {
+      "palette_theme": "High-Key Minimalist, White/Grey dominant with desaturated Green accents, Clinical and Clean aesthetic",
+      "temperature": "Neutral Daylight (5500K) leaning towards Cool White, Clean White Balance",
+      "post_processing": "Low Contrast (Flat curve), Matte finish, Overexposed sky (Pure White #FFFFFF), High Clarity on architectural lines"
+    },
+    "rendering_tech_specs": {
+      "engine_style": "Corona Renderer (High-Albedo materials), V-Ray 6 (Dome Light only), Chaos Vantage",
+      "artistic_medium": "Photorealistic Architectural Visualization, 'White Model' aesthetic with realistic textures, High-end Real Estate Photography",
+      "detail_level": "8k resolution, Pristine textures, Sharp geometric edges, No atmospheric noise"
+    },
+    "environment_textures": {
+      "ground_surface": "Light grey facade with geometric layout, Manicured lawn strips, Clean concrete edges",
+      "foliage_style": "Manicured urban landscaping, Young trees with sparse canopies, vibrant green grass"
+    }
+  }
+}

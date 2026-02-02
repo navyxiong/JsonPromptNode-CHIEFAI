@@ -7,9 +7,9 @@
     },
     "lighting_and_atmosphere": {
       "time_of_day": "Magic Hour, Civil Twilight, Post-sunset (approx 15-20 mins after sunset)",
-      "light_quality": "Mixed Lighting Scenario: Soft cool ambient skylight balanced with Directional warm artificial LED strips, Dramatic backlighting from sunset horizon",
+      "light_quality": "Mixed Lighting Scenario: Strong cool ambient skylight balanced with Directional warm artificial LED strips, Dramatic backlighting from sunset horizon",
       "weather_conditions": "Dramatic cloudscape with layered Stratus clouds, Clear visibility with low haze, Vibrant sunset afterglow (Alpenglow effect)",
-      "shadow_style": "Soft ambient occlusion in landscaping, Deep cool blue shadows in unlit areas, No harsh cast shadows from sun"
+      "shadow_style": "Medium ambient occlusion in landscaping, Deep cool blue shadows in unlit areas, No harsh cast shadows from sun"
     },
     "architectural_lighting": {
       "interior_illumination": "Randomized warm tungsten window spill (3000K), Checkerboard occupancy effect, Visible depth in offices, Not fully lit to maintain realism",
