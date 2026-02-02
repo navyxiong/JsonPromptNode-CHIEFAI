@@ -1,0 +1,38 @@
+{
+  "style_extraction_template": {
+    "camera_and_perspective": {
+      "view_angle": "High-angle drone shot, 45° downward tilt, Establishing aerial view",
+      "lens_attributes": "Wide-angle 24mm, High contrast lens coating (to handle flare), Deep depth of field, Sharp focus from foreground rooftop to distant horizon",
+      "depth_of_field": "Deep focus, Hyperfocal distance, Clear foreground textures with atmospheric depth in background"
+    },
+    "lighting_and_atmosphere": {
+      "time_of_day": "Late Golden Hour / Sunset (Sun low on horizon, visible sunburst)",
+      "light_quality": "Strong Directional Backlighting (Contre-jour), Harsh long cast shadows, Volumetric atmospheric scattering (Haze), High contrast (Chiaroscuro)",
+      "weather_conditions": "Hazy sunset atmosphere, Particulate matter in air catching the golden light, Clear sky overhead transitioning to misty horizon",
+      "shadow_style": "Long dramatic directional shadows, Deep cool ambient shadows (blue/grey) contrasting with bright warm highlights"
+    },
+    "architectural_lighting": {
+      "interior_illumination": "Minimal interior lighting (overpowered by sunlight), Faint hints of warm interior depth in shadowed facades, Non-competitive with natural light",
+      "exterior_facade_effects": "Specular highlights from sunset reflection on glass curtain walls, 'Golden Rim' lighting on building edges, Anisotropic reflections on metal louvers"
+    },
+    "landscape_lighting": {
+      "hardscape_illumination": "Natural grazing light emphasizing asphalt texture, Long shadows cast by curbs and street furniture, No artificial streetlights active yet",
+      "vegetation_highlighting": "Translucent backlighting through tree canopies (Subsurface scattering in leaves), Trees casting long distinct shadows across the road",
+      "water_feature_effects": "N/A (or Highly reflective surface mirroring the burning sun if present)"
+    },
+    "color_and_grading": {
+      "palette_theme": "Warm vs Cool Complementary Contrast, Burning Gold/Orange Highlights vs Slate Blue/Teal Shadows",
+      "temperature": "Dominant Warm Color Temp (3500K-4000K) from sun, Cool Shadow Temp (7500K) from skylight",
+      "post_processing": "High Dynamic Range (HDR) to preserve highlight detail, Lifted shadows to reveal detail in darks, Sun flare/Sunburst effect enhancement, Warm color grading"
+    },
+    "rendering_tech_specs": {
+      "engine_style": "Corona Renderer (Sun & Sky system), V-Ray 6, Unreal Engine 5",
+      "artistic_medium": "Photorealistic Aerial Photography, Cinematic Golden Hour Visualization",
+      "detail_level": "8k resolution, Ray-traced shadows, Physically accurate global illumination (GI)"
+    },
+    "environment_textures": {
+      "ground_surface": "Asphalt roads showing grain detail under grazing light, Concrete pavers with high contrast joints, Manicured grass areas with soft shadow transitions",
+      "foliage_style": "Urban trees with warm sun-drenched tops and cool shadowed bottoms, Detailed leaf translucency"
+    }
+  }
+}

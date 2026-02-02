@@ -1,0 +1,38 @@
+{
+  "style_extraction_template": {
+    "camera_and_perspective": {
+      "view_angle": "Medium Aerial Shot, 45° Isometric-like angle, Focused on building block",
+      "lens_attributes": "35mm equivalent, Rectilinear lens, Minimal distortion, High clarity, Slight perspective compression to stack foreground and background",
+      "depth_of_field": "Deep focus, Hyperfocal distance, Sharpness throughout the architectural subject"
+    },
+    "lighting_and_atmosphere": {
+      "time_of_day": "Blue Hour, Civil Twilight (Sky is deep blue, not black)",
+      "light_quality": "Soft Cool Ambient Skylight mixing with Punchy Warm Artificial Lights, High Contrast between indoor warm glow and outdoor cool air",
+      "weather_conditions": "Clear evening, Clean air (low haze)",
+      "shadow_style": "Soft, cool-toned ambient shadows (Blue cast), No harsh black shadows, diffuse shading"
+    },
+    "architectural_lighting": {
+      "interior_illumination": "High-intensity warm retail glow (3000K) spilling out from glass, High transparency (See-through effect), Visible interior structure/shelves",
+      "exterior_facade_effects": "Glowing glass features, Linear vertical LED strips on buildings, Wall-washing downlights on solid masonry facades"
+    },
+    "landscape_lighting": {
+      "hardscape_illumination": "Long Exposure Light Trails (Streaks of red tail lights and white headlights), Street lamps casting warm pools on asphalt",
+      "vegetation_highlighting": "Street trees illuminated by streetlights, dark green canopy contrasting with warm pavement",
+      "water_feature_effects": "N/A (Focus on reflective glass surfaces instead of water)"
+    },
+    "color_and_grading": {
+      "palette_theme": "Complementary Blue & Gold, Cool Cyan/Blue Sky vs Warm Amber/Orange Streets and Interiors",
+      "temperature": "Cool Balance (6500K) environment with localized Warm Tungsten (2800K) highlights",
+      "post_processing": "Long Exposure Simulation (Motion Blur on cars), High Vibrance, Clean Denoise, Digital Sharpening, Commercial real estate aesthetic"
+    },
+    "rendering_tech_specs": {
+      "engine_style": "Corona Renderer (LightMix), V-Ray 6 (Motion Blur settings), Unreal Engine 5",
+      "artistic_medium": "Photorealistic Commercial Architectural Photography, Urban Nightscape",
+      "detail_level": "8k resolution, Hyper-realistic glass refraction, Detailed asphalt textures"
+    },
+    "environment_textures": {
+      "ground_surface": "Asphalt roads with motion-blurred traffic lights reflection, Concrete sidewalks, clearly marked pedestrian crossings",
+      "foliage_style": "Row of street trees, dense canopy, urban landscaping"
+    }
+  }
+}

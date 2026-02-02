@@ -1,31 +1,38 @@
 {
   "style_extraction_template": {
     "camera_and_perspective": {
-      "view_angle": "45° Bird's eye view, Medium aerial shot, Establishing shot",
-      "lens_attributes": "35mm equivalent, Rectilinear lens, Low distortion, Natural compression",
-      "depth_of_field": "Deep focus, Hyperfocal distance, Sharp edge-to-edge"
+      "view_angle": "High-angle drone shot, Aerial bird's eye view, Wide urban context",
+      "lens_attributes": "Wide-angle lens (approx 24mm), Rectilinear correction, Slight atmospheric compression in background",
+      "depth_of_field": "Deep focus, Infinite depth of field, Sharp edge-to-edge clarity"
     },
     "lighting_and_atmosphere": {
-      "time_of_day": "Mid-Morning, Clear Day (approx 9:00 AM)",
-      "light_quality": "Clean bright sunlight, Strong Global Illumination (GI) bounce, High exposure value",
-      "weather_conditions": "Crystal clear sky, Zero haze, Blue sky gradient fading to white at horizon",
-      "shadow_style": "Distinct cast shadows but transparent (light gray), Soft penumbra, No deep blacks"
+      "time_of_day": "Mid-morning, Clear daylight, Soft sunlight",
+      "light_quality": "Directional but soft sunlight (approx 45 degree elevation), Bright ambient sky fill, Low contrast shadows",
+      "weather_conditions": "Clear sky with faint horizon haze, Atmospheric perspective, Blue sky gradient",
+      "shadow_style": "Soft definition cast shadows, Natural daylight occlusion, Medium length shadows indicating morning sun"
+    },
+    "architectural_lighting": {
+      "interior_illumination": "Daylight reflection on glass, Dark recessed window cavities, Non-illuminated interiors (Daytime state)",
+      "exterior_facade_effects": "Natural sunlight highlighting white geometric forms, Pure white diffuse reflection, Shadow play on curved volumes, No artificial exterior lighting visible"
+    },
+    "landscape_lighting": {
+      "hardscape_illumination": "Natural daylight exposure on geometric paving patterns, High albedo surface reflection",
+      "vegetation_highlighting": "Natural sunlight on tree canopies, Soft shadow casting on lawns",
+      "water_feature_effects": "Daylight mirror reflection, Still water surface"
     },
     "color_and_grading": {
-      "palette_theme": "High-Key, Clinical White, Desaturated Naturals, Clean Slate",
-      "temperature": "Neutral Daylight (5500K), Pure White Balance (No color cast)",
-      "post_processing": "Low contrast in mids, Preserved highlights (no burnout), Clean white point, Commercial ArchViz style"
+      "palette_theme": "High-key, Clean white and cool greys, Desaturated urban tones, Natural greens",
+      "temperature": "Cool/Neutral daylight balanced, Slight blue tint in shadows",
+      "post_processing": "Low contrast curve, Exposure compensation +1.0 (Bright), Realistic color grading, Clean sharp finish, Minimal vignette"
     },
     "rendering_tech_specs": {
-      "engine_style": "Corona Renderer (High Albedo), V-Ray, Chaos Vantage",
-      "artistic_medium": "Photorealistic Architectural Visualization, Commercial Real Estate Photography",
-      "detail_level": "8k resolution, Pristine surfaces, Sharp geometry, Clean texture mapping",
-      "post_processing": "Perspective correction for perfect vertical alignment of buildings, clarity enhancement on architectural lines, highlight control on glazing reflections"
+      "engine_style": "Lumion style aerial, V-Ray photorealism, Architectural visualization standard",
+      "artistic_medium": "Photorealistic aerial photography, Digital architectural rendering",
+      "detail_level": "8k resolution, Hyper-realistic, Crisp textures, High fidelity urban context"
     },
     "environment_textures": {
-      "ground_surface": "Paved light grey plazas, Geometric hardscaping, Clean asphalt",
-      "foliage_style": "Manicured urban trees, Desaturated olive greens, Sparse autumn/winter vegetation structure"
+      "ground_surface": "Geometric paved plaza, Manicured lawn stripes, Asphalt city roads, Tiled pedestrian walkways",
+      "foliage_style": "Young urban street trees, Organized grid planting, Manicured public park vegetation"
     }
   }
 }
-      

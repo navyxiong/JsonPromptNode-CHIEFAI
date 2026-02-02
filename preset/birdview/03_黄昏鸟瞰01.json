@@ -1,0 +1,38 @@
+{
+  "style_extraction_template": {
+    "camera_and_perspective": {
+      "view_angle": "Cinematic Aerial Shot, Wide-angle drone view, Establishing shot, 45-degree downward tilt",
+      "lens_attributes": "Wide-angle 24mm equivalent, Rectilinear lens, High clarity, Zero distortion, Deep depth of field",
+      "depth_of_field": "Deep focus, Hyperfocal distance, Sharpness extending from foreground landscape to distant skyline"
+    },
+    "lighting_and_atmosphere": {
+      "time_of_day": "Magic Hour, Civil Twilight, Post-sunset (approx 15-20 mins after sunset)",
+      "light_quality": "Mixed Lighting Scenario: Soft cool ambient skylight balanced with Directional warm artificial LED strips, Dramatic backlighting from sunset horizon",
+      "weather_conditions": "Dramatic cloudscape with layered Stratus clouds, Clear visibility with low haze, Vibrant sunset afterglow (Alpenglow effect)",
+      "shadow_style": "Soft ambient occlusion in landscaping, Deep cool blue shadows in unlit areas, No harsh cast shadows from sun"
+    },
+    "architectural_lighting": {
+      "interior_illumination": "Randomized warm tungsten window spill (3000K), Checkerboard occupancy effect, Visible depth in offices, Not fully lit to maintain realism",
+      "exterior_facade_effects": "Prominent Linear LED facade strips (Golden Amber 4700K), Horizontal architectural emphasis, Soft diffusion along metal louvers, Continuous flowing light lines"
+    },
+    "landscape_lighting": {
+      "hardscape_illumination": "Warm street lamps and low-level bollard lights casting soft pools of light on asphalt, Illuminated pedestrian pathways outlining the site circulation",
+      "vegetation_highlighting": "Subtle uplighting on key trees, General deep shadow for mass planting, Contrast between dark vegetation and lit pathways",
+      "water_feature_effects": "Reflective surface sheen capturing the sunset gradient and building LED reflections"
+    },
+    "color_and_grading": {
+      "palette_theme": "Split-Complementary, Sunset Gradients (Violet/Magenta to Peach/Orange sky) vs Warm Gold (4200K) Building Lights",
+      "temperature": "Complex balance: Deep Blue/Purple zenith (8000K) blending into Warm Horizon (2500K), contrasted with Warm Tungsten Interior lights (3000K)",
+      "post_processing": "Vibrant Saturation, High Dynamic Range (HDR) to retain sky detail and ground lights, Clean digital finish, Minimal noise, Cinematic color grading"
+    },
+    "rendering_tech_specs": {
+      "engine_style": "Corona Renderer (LightMix), V-Ray 6, Unreal Engine 5 (Lumen)",
+      "artistic_medium": "Photorealistic Commercial Architectural Photography, High-end Real Estate Visualization",
+      "detail_level": "8k resolution, Crisp lighting details, Emissive material glow, No artifacts, Physically based rendering (PBR)"
+    },
+    "environment_textures": {
+      "ground_surface": "Shadowed asphalt roads, Illuminated pedestrian pathways, Darkened landscape features, Low reflectivity matte surfaces",
+      "foliage_style": "Lush vegetation in deep shadow, Dark green tones absorbing the twilight, Illuminated only by specific landscape lights"
+    }
+  }
+}

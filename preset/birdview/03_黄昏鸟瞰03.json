@@ -1,0 +1,37 @@
+{
+  "style_extraction_template": {
+    "camera_and_perspective": {
+      "view_angle": "Wide-angle Aerial Drone Shot, 45° Bird's eye view, Establishing context shot",
+      "lens_attributes": "24mm Wide-angle lens, Rectilinear projection, High clarity edge-to-edge, Deep depth of field",
+      "depth_of_field": "Deep focus, Hyperfocal distance, Sharp texture details from foreground wet roads to background mountains"
+    },
+    "lighting_and_atmosphere": {
+      "time_of_day": "Overcast Twilight, Late Blue Hour (Sun is set, cloudy sky), Post-rain evening",
+      "light_quality": "Soft Diffuse Skylight (Cloudy), No harsh directional sunlight, Even global illumination, Balanced exposure between sky and ground",
+      "weather_conditions": "Overcast with heavy textured clouds, Post-rain atmosphere (Wet ground), Cool humid air, distant mountain haze",
+      "shadow_style": "Very soft ambient occlusion (AO) only, No distinct cast shadows, Diffuse shading under trees and buildings"
+    },
+    "architectural_lighting": {
+      "interior_illumination": "Warm Tungsten Office Spill (3000K), High visibility through large glass curtain walls, Checkerboard occupancy pattern, Soft glow emanating from lobbies",
+      "exterior_facade_effects": "Minimal exterior decorative lighting, White stone facades reflecting the cool grey sky, Subtle linear accents"
+    },
+    "landscape_lighting": {
+      "hardscape_illumination": "Street markings highly visible due to wet contrast, Faint reflection of street lamps on wet asphalt",
+      "vegetation_highlighting": "Natural ambient lighting (low light), Dark lush greens absorbing the skylight, No aggressive artificial uplighting",
+    },
+    "color_and_grading": {
+      "palette_theme": "Muted Cool Tones, Slate Grey/Blue environment vs Warm Honey/Amber interiors, Desaturated realism",
+      "temperature": "Overall Cool/Neutral bias (6500K Sky) contrasting with localized Warmth (3000K Windows)",
+      "post_processing": "Low Contrast Film Look, 'Raw' photography aesthetic, Slight desaturation, High clarity on road textures, Natural white balance"
+    },
+    "rendering_tech_specs": {
+      "engine_style": "Corona Renderer (Wet material focus), V-Ray 6, Unreal Engine 5",
+      "artistic_medium": "Photorealistic Architectural Visualization, Mood-based Landscape Photography",
+      "detail_level": "8k resolution, Hyper-realistic wet asphalt textures, Detailed cloud volume"
+    },
+    "environment_textures": {
+      "ground_surface": "Wet asphalt roads (Post-rain) with specular sky reflections, White road markings showing high contrast, Manicured curvy lawns",
+      "foliage_style": "Dark dense tree canopies, lush green landscaping, soft transitions between grass and pavement"
+    }
+  }
+}

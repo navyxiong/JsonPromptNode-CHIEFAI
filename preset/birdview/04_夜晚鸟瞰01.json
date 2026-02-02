@@ -1,29 +1,38 @@
 {
   "style_extraction_template": {
     "camera_and_perspective": {
-      "view_angle": "High-angle drone shot, Wide aerial cityscape, 45° looking down",
-      "lens_attributes": "Wide-angle 24mm, Low distortion, Deep depth of field, Corner-to-corner sharpness",
-      "depth_of_field": "Infinite focus, Everything sharp, No bokeh"
+      "view_angle": "High-angle drone shot, Wide aerial cityscape, 45° Bird's eye view",
+      "lens_attributes": "Wide-angle lens (approx 24-35mm), Rectilinear correction, Strong atmospheric perspective depth",
+      "depth_of_field": "Deep focus, Sharp foreground architecture, Soft atmospheric fade in background"
     },
     "lighting_and_atmosphere": {
-      "time_of_day": "Deep Blue Hour, After-sunset twilight (not quite night yet)",
-      "light_quality": "Dominant cool skylight ambient with subtle Violet tint, Soft diffuse illumination, Mixing with warm city lights",
-      "weather_conditions": "Heavy urban haze creating atmospheric perspective, The haze carries a Bluish-Purple cast",
-      "shadow_style": "Soft, low-contrast ambient shadows, Shadows are deep cool blue/indigo (not pure black or strong purple)"
+      "time_of_day": "Blue hour, Twilight, Post-sunset dusk",
+      "light_quality": "Soft cool ambient skylight, Glowing artificial city lights, Low contrast environmental fill",
+      "weather_conditions": "Hazy urban atmosphere, Thin fog in distance, Overcast twilight sky",
+      "shadow_style": "Soft ambient occlusion, No directional cast shadows, Diffuse night shading"
+    },
+    "architectural_lighting": {
+      "interior_illumination": "Warm tungsten office window spill, Randomized interior occupancy patterns, Soft commercial glow",
+      "exterior_facade_effects": "Warm linear LED contour lighting (3000K), Roofline strip lights, Podium edge highlighting, Building massing outlines"
+    },
+    "landscape_lighting": {
+      "hardscape_illumination": "Amber streetlamp arrays on grid roads, Continuous highway light trails, Car headlights, Parking lot floodlights",
+      "vegetation_highlighting": "Dim ambient park glow, Low contrast dark foliage areas",
+      "water_feature_effects": "River reflection of skyline lights, Diffuse blue sky reflection on water surface"
     },
     "color_and_grading": {
-      "palette_theme": "Twilight Blue with Violet undertones (Indigo), Cool ambient vs Warm Tungsten lights, muted urban tones",
-      "temperature": "Cool Color Temperature (around 7000K) with slight Magenta bias (Tint +10)",
-      "post_processing": "Low contrast film look, Lifted blacks (dark gray-blue shadows), Desaturated slightly to enhance the hazy mood, Smooth gradient in sky"
+      "palette_theme": "Blue and Gold complementary, Cool urban tints, Cyberpunk-lite, Deep blues and warm oranges",
+      "temperature": "Cool/Blue-tinted base (6500K-8000K) with Warm accents (2700K)",
+      "post_processing": "Lifted blacks (matte shadow look), Reduced contrast in distance (haze), HDR dynamic range, Noise reduction"
     },
     "rendering_tech_specs": {
-      "engine_style": "Corona Renderer, V-Ray 6, Photorealistic ArchViz",
-      "artistic_medium": "Photorealistic Urban Aerial Photography, Cinematic Color Grading",
-      "detail_level": "8k resolution, Soft atmospheric details alongside sharp architectural lines"
+      "engine_style": "V-Ray night render, Corona Renderer atmospheric setup, Unreal Engine 5 city sample style",
+      "artistic_medium": "Photorealistic night aerial photography, Urban planning visualization",
+      "detail_level": "8k resolution, High density urban fabric, Complex city infrastructure"
     },
     "environment_textures": {
-      "ground_surface": "Matte asphalt, Concrete rooftops reflecting the cool twilight sky",
-      "foliage_style": "Dark, desaturated cool green vegetation blending into the blue hour shadows"
+      "ground_surface": "Dark asphalt roads, Concrete rooftops, Dense urban grid patterns",
+      "foliage_style": "Dark urban greenbelts, Sparse street trees, Muted night vegetation colors"
     }
   }
 }
