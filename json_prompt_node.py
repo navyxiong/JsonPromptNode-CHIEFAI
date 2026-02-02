@@ -1,11 +1,10 @@
 import os
 import json
 
-# 定义分类文件夹映射
+# 1. 修改：去掉了 "其他": "others"
 PRESET_FOLDERS = {
     "透视图": "perspective",
-    "鸟瞰图": "birdview",
-    "其他": "others"
+    "鸟瞰图": "birdview"
 }
 
 class JsonPromptNode:
@@ -20,9 +19,14 @@ class JsonPromptNode:
 
         for preset_name, sub_folder in PRESET_FOLDERS.items():
             target_dir = os.path.join(preset_root, sub_folder)
-            os.makedirs(target_dir, exist_ok=True) # 自动创建目录
             
-            files = ["None"] + sorted([f for f in os.listdir(target_dir) if f.endswith(".json")])
+            # 2. 修改：移除了 os.makedirs(target_dir, exist_ok=True)
+            # 新增逻辑：检查目录是否存在。如果不存在（用户未手动创建），则列表仅为 None，防止报错。
+            if os.path.exists(target_dir):
+                files = ["None"] + sorted([f for f in os.listdir(target_dir) if f.endswith(".json")])
+            else:
+                files = ["None"]
+                
             optional_inputs[preset_name] = (files, {"searchable": True})
 
         return {
@@ -48,6 +52,7 @@ class JsonPromptNode:
 
     def process_prompts(self, custom_text, enable_default_prompt, refresh_cache, **kwargs):
         parts = []
+        # 固定提示词逻辑
         if enable_default_prompt:
             parts.append( "Transform the image into a real-life photo according to the following requirements, "
                           "strictly maintain the consistency of the image content, strictly maintain the consistency "
@@ -62,11 +67,12 @@ class JsonPromptNode:
                 file_path = os.path.join(base_dir, "preset", sub_folder, filename)
                 
                 if os.path.exists(file_path):
-                    # 支持多种编码读取，解决中文环境下新加 JSON 不识别的问题
+                    # 支持多种编码读取
                     for encoding in ['utf-8-sig', 'utf-8', 'gbk']:
                         try:
                             with open(file_path, 'r', encoding=encoding) as f:
                                 data = json.load(f)
+                                # 兼容 list 或 dict 格式的 JSON
                                 content = ", ".join(map(str, data)) if isinstance(data, list) else (", ".join(map(str, data.values())) if isinstance(data, dict) else str(data))
                                 if content: parts.append(content)
                             break 
@@ -77,6 +83,6 @@ class JsonPromptNode:
 
         return (", ".join([p.strip() for p in parts if p.strip()]),)
 
-# 必须定义的映射，用于 ComfyUI 识别加载
+# 节点映射
 NODE_CLASS_MAPPINGS = { "JsonPromptNode": JsonPromptNode }
 NODE_DISPLAY_NAME_MAPPINGS = { "JsonPromptNode": "Archi-Prompt JSON Loader" }
