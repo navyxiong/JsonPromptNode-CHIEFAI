@@ -3,12 +3,12 @@
     "camera_and_perspective": {
       "view_angle": "High-angle Drone Shot, 45° Bird's Eye View, Wide Establishing Shot",
       "lens_attributes": "24mm Wide-angle lens, Rectilinear projection, High clarity, Sharp focus on foreground building complex",
-      "depth_of_field": "Deep focus but with strong Atmospheric Perspective (Haze) fading the background into grey"
+      "depth_of_field": "Deep focus but with strong Atmospheric Perspective (Haze) fading the further background into grey"
     },
     "lighting_and_atmosphere": {
       "time_of_day": "Overcast, Mid-day (Cloudy)",
-      "light_quality": "Strong Diffuse Skylight, Even Global Illumination (GI), No harsh directional shadows, 'Shadowless' aesthetic",
-      "weather_conditions": "Overcast sky, Grey/White clouds, Thin Atmospheric Haze/Mist in the distance",
+      "light_quality": "Global Illumination (GI), No harsh directional shadows, 'Shadowless' aesthetic",
+      "weather_conditions": "Overcast sky, Grey/White clouds, Thin Mist in the distance",
       "shadow_style": "Diffuse shading under trees and eaves, No distinct cast shadows"
     },
     "architectural_lighting": {
@@ -16,13 +16,13 @@
       "exterior_facade_effects": "Natural material response under soft light, Even illumination revealing geometric details"
     },
     "landscape_lighting": {
-      "hardscape_illumination": "Natural flat daylight, Asphalt roads showing subtle sheen",
+      "hardscape_illumination": "Natural daylight, Asphalt roads showing subtle sheen",
       "vegetation_highlighting": "Vibrant Lush Greens under diffuse light, Soft top-lighting on dense tree canopies, No specular highlights on leaves"
     },
     "color_and_grading": {
       "palette_theme": "Naturalistic & Desaturated, Lush Forest Green vs White Foggy Background",
-      "temperature": "Neutral Daylight (5500K) with a slight Cool bias in the shadows/background",
-      "post_processing": "High-Key Exposure, High Contrast, De-haze reduced (to maintain misty look), Clean and fresh tone"
+      "temperature": "Neutral Daylight (5500K) with a Cool blue bias in the shadows/background",
+      "post_processing": "High Contrast, De-haze reduced (to maintain misty look), Clean and fresh tone"
     },
     "rendering_tech_specs": {
       "engine_style": "D5 Render (Real-time Raytracing style), Corona Renderer (Overcast setup), Unreal Engine 5",
@@ -30,7 +30,7 @@
       "detail_level": "8k resolution, Hyper-realistic vegetation assets, Volumetric fog"
     },
     "environment_textures": {
-      "ground_surface": "Asphalt roads, Concrete pathways",
+      "ground_surface": "Dark asphalt roads, Concrete pathways",
       "foliage_style": "Manicured urban landscaping, Young trees with sparse canopies, vibrant green grass"
     }
   }
