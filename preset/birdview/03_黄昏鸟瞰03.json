@@ -17,7 +17,7 @@
     },
     "landscape_lighting": {
       "hardscape_illumination": "Street markings highly visible due to wet contrast, Faint reflection of street lamps on wet asphalt",
-      "vegetation_highlighting": "Natural ambient lighting (low light), Dark lush greens absorbing the skylight, No aggressive artificial uplighting",
+      "vegetation_highlighting": "Natural ambient lighting (low light), Dark lush greens absorbing the skylight, No aggressive artificial uplighting"
     },
     "color_and_grading": {
       "palette_theme": "Muted Cool Tones, Slate Grey/Blue environment vs Warm Honey/Amber interiors, Desaturated realism",
