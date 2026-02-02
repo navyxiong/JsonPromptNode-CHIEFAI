@@ -49,7 +49,10 @@ class JsonPromptNode:
     def process_prompts(self, custom_text, enable_default_prompt, refresh_cache, **kwargs):
         parts = []
         if enable_default_prompt:
-            parts.append("Transform the image into a real-life photo according to the architecture design requirements.")
+            parts.append( "Transform the image into a real-life photo according to the following requirements, "
+                          "strictly maintain the consistency of the image content, strictly maintain the consistency "
+                          "of the buildings and environment in the image, and do not change the shooting angle and "
+                          "composition of the image.")
 
         base_dir = os.path.dirname(os.path.abspath(__file__))
         
