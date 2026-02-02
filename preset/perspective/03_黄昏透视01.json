@@ -1,0 +1,40 @@
+{
+    "camera_gear": {
+        "model": "Phase One XF IQ4 150MP",
+        "lens": "Rodenstock HR Digaron-W 32mm f/4.0 Tilt-Shift lens (Shifted for vertical correction)",
+        "sensor": "Medium Format CMOS (53.4 x 40mm)",
+        "shutter_speed": "1/125s",
+        "aperture": "f/11 (Sweet spot for edge-to-edge sharpness and deep depth of field)"
+    },
+    "lighting_setup": {
+        "time_of_day": "Mid-afternoon, Golden Hour transition",
+        "weather": "Partly cloudy with diffused high-altitude sun",
+        "lighting_direction": "Side-lighting (approx. 45-degree angle from the left), accentuating architectural relief",
+        "quality": "Soft-edged shadows, balanced global illumination with warm highlights on metallic surfaces",
+        "artificial_light": "None, pure natural environmental light"
+    },
+    "color_grading": {
+        "palette": "Metallic reflections, pale cerulean sky, earthy green foliage",
+        "saturation": "Naturalistic, slightly pulled back to emphasize material texture",
+        "contrast": "Medium micro-contrast, preserved shadow detail in the ornate archways"
+    },
+    "texture_quality": {
+        "details": "Ultra-high fidelity; crisp reflections on glass. Clear visibility of interior furniture through glass,",
+        "surface_descriptions": "High-gloss reflective glass; asphalt texture with soft specular highlights"
+    },
+    "composition_guide": {
+        "type": "One-point perspective with strong leading lines; vertical lines strictly parallel (no keystone effect)",
+        "balance": "Asymmetrical balance"
+    },
+    "atmosphere": {
+        "mood": "Sophisticated, timeless, serene urban afternoon",
+        "feeling": "The peaceful scenery"
+    },
+    "technical_quality": {
+        "post_processing": "Non-destructive RAW editing, subtle lens distortion correction, localized highlight recovery",
+        "white_balance": "5500K (Daylight balanced with a slight warm bias in reflections)",
+        "tone": "Linear tonal curve with a gentle lift in mid-tones",
+        "vignette": "Zero vignetting, consistent exposure across the entire frame",
+        "dynamic_range": "High Dynamic Range (HDR) optimized for shadow detail in recessed balconies and bright sky clouds"
+    }
+}

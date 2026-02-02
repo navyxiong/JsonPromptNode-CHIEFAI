@@ -1,0 +1,40 @@
+{
+    "camera_gear": {
+        "model": "Phase One XF IQ4 150MP / Hasselblad X2D 100C / Canon EOS R5",
+        "lens": "Tilt-Shift Wide-Angle TS-E 35mm f/2.8L / PC-E Micro-NIKKOR 45mm f/2.8D ED",
+        "sensor": "Medium Format 150MP BSI CMOS / Full-frame 45MP stacked sensor",
+        "shutter_speed": "1/30s - 1/60s",
+        "aperture": "f/8.0 - f/11"
+    },
+    "lighting_setup": {
+        "time_of_day": "Civil Twilight transitioning to Blue Hour, approximately 30-45 minutes post-sunset",
+        "weather": "Clear sky with residual ambient light, high atmospheric clarity",
+        "lighting_direction": "Soft diffused residual skylight from zenith mixed with warm interior illumination from building apertures",
+        "quality": "Soft, diffused, low-contrast twilight ambient with punctuated warm interior glows creating focal points",
+        "artificial_light": "Warm interior residential lighting (2700-3000K) glowing through windows, street-level commercial/reception lighting, subtle facade uplighting on ground floor"
+    },
+    "color_grading": {
+        "palette": "Split-tone palette: cool cyan-blue twilight sky (5500-6000K) contrasting against warm amber interior lights (4700K), transitioning to light gray/white upper floors, autumn foliage hints",
+        "saturation": "Medium saturation (80-85%), natural color rendering with selective emphasis on interior warmth against cool exterior",
+        "contrast": "Medium contrast with lifted shadows for street detail preservation, smooth tonal transitions between sky and building, controlled highlights in window lights"
+    },
+    "texture_quality": {
+        "details": "Glass with reflections, glass transparency showing interior activity",
+        "surface_descriptions": "Clear glazing with warm interior glow, dense urban foliage in mist"
+    },
+    "composition_guide": {
+        "type": "Three-point perspective corner view from across street, eye-level pedestrian perspective",
+        "balance": "Asymmetrical balance"
+    },
+    "atmosphere": {
+        "mood": "Sophisticated urban residential tranquility, dialogue between contemporary architecture, welcoming domestic warmth emanating from lit windows",
+        "feeling": "Gentle evening transition, rooted elegance, neighborhood integration, quiet metropolitan living, seasonal autumn ambiance"
+    },
+    "technical_quality": {
+        "post_processing": "Tilt-shift perspective correction for perfect verticals, exposure blending for interior/exterior balance, selective color grading emphasizing split-tone effect (cool shadows/warm highlights), clarity enhancement on facade materials, subtle shadow lifting for street-level detail, chromatic aberration control on high-contrast window edges",
+        "white_balance": "Dual white balance technique: exterior balanced to 6000K preserving blue hour atmosphere, interior lighting allowed warm rendering at 2800K creating natural color temperature contrast and depth",
+        "tone": "Blue hour tonal curve with open shadows (+25), compressed highlights to preserve window detail, gentle S-curve for depth without harshness, matte-like finish avoiding pure blacks",
+        "vignette": "No vignette or extremely subtle (-5%) to maintain clean, open urban atmosphere",
+        "dynamic_range": "High dynamic range capture (14+ stops) via exposure bracketing or high-end sensor, preserving detail in dim street areas, bright interior lights, and subtle sky gradations simultaneously"
+    }
+}

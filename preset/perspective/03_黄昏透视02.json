@@ -1,0 +1,40 @@
+{
+    "camera_gear": {
+        "model": "Canon EOS R5",
+        "lens": "Canon TS-E 24mm f/3.5L II (Tilt-Shift)",
+        "sensor": "Full Frame CMOS (45MP)",
+        "shutter_speed": "1/60 sec",
+        "aperture": "f/11"
+    },
+    "lighting_setup": {
+        "time_of_day": "Golden Hour (Late Afternoon)",
+        "weather": "Clear sky with soft directional sunlight",
+        "lighting_direction": "Low-angle side lighting (grazing light)",
+        "quality": "Soft directional sunlight creating distinct contrast between illuminated facade and shadowed street",
+        "artificial_light": "Minimal interior warm ambient light (faintly visible in windows)"
+    },
+    "color_grading": {
+        "palette": "Warm Analogous; Terracotta, and beige tones against a high-key pale blue sky",
+        "saturation": "Natural to slightly warm biased",
+        "contrast": "Medium-High (emphasizing the difference between sunlit facades and shadowed vegetation)"
+    },
+    "texture_quality": {
+        "details": "High-frequency micro-contrast on glass",
+        "surface_descriptions": "Smooth reflective glass windows, asphalt road texture"
+    },
+    "composition_guide": {
+        "type": "Two-point perspective",
+        "balance": "Asymmetrical"
+    },
+    "atmosphere": {
+        "mood": "Tranquil, Warm, Urban Residential",
+        "feeling": "Solidarity and dusk anticipation"
+    },
+    "technical_quality": {
+        "post_processing": "Vertical perspective correction (Shift), Shadow recovery in foliage",
+        "white_balance": "Daylight (5200K) allowing warm sunset light to render naturally",
+        "tone": "Rich mid-tones with preserved highlights",
+        "vignette": "None",
+        "dynamic_range": "High (balancing bright sunlit facade with shadowed street level)"
+    }
+}

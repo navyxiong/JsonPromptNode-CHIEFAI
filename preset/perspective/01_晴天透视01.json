@@ -1,0 +1,41 @@
+{
+    "camera_gear": {
+        "model": "Sony Alpha 7R V",
+        "lens": "Sony FE 12-24mm f/2.8 GM (Ultra-Wide Angle)",
+        "sensor": "Full Frame Exmor R CMOS (61MP)",
+        "shutter_speed": "1/500 sec (Fast shutter to freeze the scooter)",
+        "aperture": "f/8.0 (Sweet spot for corner-to-corner sharpness)",
+        "iso": "100"
+    },
+    "lighting_setup": {
+        "time_of_day": "Mid-Morning (approx. 10:00 AM)",
+        "weather": "Crystal Clear Sky with faint wispy Cirrus clouds",
+        "lighting_direction": "High-Angle Directional Sunlight (45-degree Side Light)",
+        "quality": "Hard Light, creating crisp, defined cast shadows on ground",
+        "artificial_light": "None (100% Natural Daylight)"
+    },
+    "color_grading": {
+        "palette": "High-Contrast Complementary;",
+        "saturation": "Natural to Vibrant",
+        "contrast": "High (emphasizing the depth of the architectural void against the flat grid)"
+    },
+    "texture_quality": {
+        "details": "Razor-sharp vertical mullions, clear visibility of interior furniture through glass",
+        "surface_descriptions": "Clear glass with sky reflections, asphalt road grain,huge shadows of buildings on the ground"
+    },
+    "composition_guide": {
+        "type": "2-Point Perspective",
+        "balance": "Dynamic Asymmetry"
+    },
+    "atmosphere": {
+        "mood": "Bold, Futuristic, Crisp, energetic",
+        "feeling": "A striking contrast between rigid exterior structure and cool, inviting interior core"
+    },
+    "technical_quality": {
+        "post_processing": "Perspective Correction (Verticals rectified), Dehaze (to deepen the blue sky), Clarity boost on architectural lines",
+        "white_balance": "Daylight (5200K) ",
+        "tone": "Bright Highlights, Open Shadows (no crushed blacks in the trees)",
+        "vignette": "None",
+        "dynamic_range": "High (Maintaining detail in the shadowed cut-out)"
+    }
+}

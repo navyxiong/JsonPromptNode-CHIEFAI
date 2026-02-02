@@ -1,0 +1,40 @@
+{
+    "camera_gear": {
+        "model": "Hasselblad X2D 100C / Phase One XF IQ4 150MP / Fujifilm GFX 100S",
+        "lens": "Tilt-Shift Wide-Angle TS-E 45mm f/2.8 / PC-E Micro-NIKKOR 45mm f/2.8D ED",
+        "sensor": "Medium Format 100MP-150MP BSI CMOS / 43.8×32.9mm sensor",
+        "shutter_speed": "1/250s - 1/500s",
+        "aperture": "f/8.0 - f/11"
+    },
+    "lighting_setup": {
+        "time_of_day": "Late morning (10:00-11:00 AM) or Early afternoon (2:00-3:00 PM)",
+        "weather": "Clear cloudless sky, high atmospheric visibility",
+        "lighting_direction": "Hard directional side-lighting from camera left (southwest or southeast), creating crisp shadows on building facade",
+        "quality": "Hard, high-contrast direct sunlight, sharp shadow definition, strong specular highlights on roofing",
+        "artificial_light": "None (pure natural daylight photography)"
+    },
+    "color_grading": {
+        "palette": "Desaturated industrial palette dominated by cool steel-blue sky, subtle autumn foliage tones",
+        "saturation": "Low to medium-low saturation (65-75%), muted chromatic intensity for industrial realism, greens slightly desaturated toward olive-gray",
+        "contrast": "Medium-high contrast with deepened shadows, elevated clarity for architectural edge definition, S-curve emphasizing structural lines"
+    },
+    "texture_quality": {
+        "details": "Ultra-sharp rendering of corrugated facade texture, precise vertical joint lines, glass reflectivity",
+        "surface_descriptions": "Clear reflective glazing with blue sky mirror effect, asphalt road surface with lane markings"
+    },
+    "composition_guide": {
+        "type": "Eye-level two-point perspective, environmental wide shot, layered composition with foreground road, midground architecture, and background clear sky",
+        "balance": "Asymmetrical balance, rule of thirds vertical composition"
+    },
+    "atmosphere": {
+        "mood": "Rational industrial precision, clean energy modernity, restrained elegance of post-industrial architecture, calm authority of civic infrastructure",
+        "feeling": "Environmental consciousness, orderly industrial landscape integrated with nature, quiet monumentality"
+    },
+    "technical_quality": {
+        "post_processing": "Tilt-shift perspective correction for parallel vertical lines, clarity and structure enhancement on architectural edges, graduated filter darkening upper sky for tonal compression, HSL reduction of sky saturation toward cyan-gray, selective sharpening on signage and facade textures",
+        "white_balance": "Daylight preset 5500K with slight blue shift (-5 warmth) to emphasize cool industrial aesthetic, preserving neutral lighting on facade",
+        "tone": "Neutral to slightly cool tone curve with lifted blacks (+10) for detail in shadow foliage, compressed highlights on facade to prevent clipping, medium contrast S-curve",
+        "vignette": "No vignette or extremely subtle (-5%) to maintain clean documentary aesthetic",
+        "dynamic_range": "High dynamic range capture (14+ stops) preserving detail in bright facade surfaces and simultaneously in deep shadow areas of trees and building recesses"
+    }
+}

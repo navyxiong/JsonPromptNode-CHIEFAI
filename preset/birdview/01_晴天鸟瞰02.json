@@ -1,0 +1,31 @@
+{
+  "style_extraction_template": {
+    "camera_and_perspective": {
+      "view_angle": "45° Bird's eye view, Medium aerial shot, Establishing shot",
+      "lens_attributes": "35mm equivalent, Rectilinear lens, Low distortion, Natural compression",
+      "depth_of_field": "Deep focus, Hyperfocal distance, Sharp edge-to-edge"
+    },
+    "lighting_and_atmosphere": {
+      "time_of_day": "Mid-Morning, Clear Day (approx 9:00 AM)",
+      "light_quality": "Clean bright sunlight, Strong Global Illumination (GI) bounce, High exposure value",
+      "weather_conditions": "Crystal clear sky, Zero haze, Blue sky gradient fading to white at horizon",
+      "shadow_style": "Distinct cast shadows but transparent (light gray), Soft penumbra, No deep blacks"
+    },
+    "color_and_grading": {
+      "palette_theme": "High-Key, Clinical White, Desaturated Naturals, Clean Slate",
+      "temperature": "Neutral Daylight (5500K), Pure White Balance (No color cast)",
+      "post_processing": "Low contrast in mids, Preserved highlights (no burnout), Clean white point, Commercial ArchViz style"
+    },
+    "rendering_tech_specs": {
+      "engine_style": "Corona Renderer (High Albedo), V-Ray, Chaos Vantage",
+      "artistic_medium": "Photorealistic Architectural Visualization, Commercial Real Estate Photography",
+      "detail_level": "8k resolution, Pristine surfaces, Sharp geometry, Clean texture mapping",
+      "post_processing": "Perspective correction for perfect vertical alignment of buildings, clarity enhancement on architectural lines, highlight control on glazing reflections"
+    },
+    "environment_textures": {
+      "ground_surface": "Paved light grey plazas, Geometric hardscaping, Clean asphalt",
+      "foliage_style": "Manicured urban trees, Desaturated olive greens, Sparse autumn/winter vegetation structure"
+    }
+  }
+}
+      

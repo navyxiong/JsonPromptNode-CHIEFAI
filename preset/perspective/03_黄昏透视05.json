@@ -1,0 +1,40 @@
+{
+    "camera_gear": {
+        "model": "Sony A7R V / Canon EOS R5 / Fujifilm GFX 100S",
+        "lens": "Tilt-Shift Wide-Angle TS-E 24mm f/3.5L II / PC Nikkor 24mm f/3.5D",
+        "sensor": "Full-frame 45-61MP BSI CMOS / Medium Format 102MP",
+        "shutter_speed": "1/60s - 1/125s (capturing subtle motion blur on pedestrians)",
+        "aperture": "f/8.0 - f/11"
+    },
+    "lighting_setup": {
+        "time_of_day": "Late afternoon/Early evening (4:00-5:30 PM), approaching sunset but not yet twilight",
+        "weather": "Clear, soft diffused daylight with warm sunlight",
+        "lighting_direction": "Sunlight front from camera left/west, creating strong rim light on building",
+        "quality": "Diffused, high-key sunlight, no harsh shadows",
+        "artificial_light": "Warm interior retail lighting (3000K) visible through ground floor shopfronts creating inviting glow, subtle warm highlights in building"
+    },
+    "color_grading": {
+        "palette": "Sky with subtle dark blue gradient, warm amber interior glows against cool exterior",
+        "saturation": "Medium-high saturation, gentle and restrained color palette",
+        "contrast": "Medium contrast, lifted shadows for detail in street level"
+    },
+    "texture_quality": {
+        "details": "Muted Urban Tones, grey blue shadow, glass transparency showing interior activity, pedestrian motion blur, asphalt texture with road markings",
+        "surface_descriptions": "Clear glazed shopfront at ground level, asphalt road surface, grey brick paved sidewalk"
+    },
+    "composition_guide": {
+        "type": "Three-quarter corner view from across street, environmental context including adjacent buildings and street activity, slight perspective convergence toward building corner",
+        "balance": "Asymmetrical balance"
+    },
+    "atmosphere": {
+        "mood": "Quiet urban evening transition, gentle everyday beauty, understated Modern architectural elegance",
+        "feeling": "Calm, approachable, residential comfort mixed with urban vitality, winter clarity and crispness"
+    },
+    "technical_quality": {
+        "post_processing": "Tilt-shift perspective correction maintaining vertical lines, clarity enhancement on facade texture, color temperature balancing between cool exterior and warm interior, subtle highlight recovery on sky, gentle dehaze for atmospheric softness",
+        "white_balance": "Daylight balanced slightly warm (5600K) to preserve soft evening light quality, preserving cool sky tones while maintaining warmth in artificial lighting",
+        "tone": "High-key tonal curve with lifted blacks, compressed contrast for gentle aesthetic, mid-tone emphasis, avoiding pure blacks",
+        "vignette": "No vignette or extremely subtle (-5%) to maintain open, airy feel",
+        "dynamic_range": "High dynamic range (14+ stops) capturing detail in bright sky gradations and simultaneously in shadowed street and building recesses, balanced exposure preserving window interior details"
+    }
+}

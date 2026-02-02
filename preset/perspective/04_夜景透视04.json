@@ -1,0 +1,40 @@
+{
+    "camera_gear": {
+        "model": "Fujifilm GFX 100S / Sony A7R IV / Canon EOS R5",
+        "lens": "Standard Wide-Angle 35mm f/1.4 GM / 45mm f/2.8 TS-E (minimal shift) / GF 45mm f/2.8",
+        "sensor": "Medium Format 102MP BSI CMOS / Full-frame 61MP back-illuminated",
+        "shutter_speed": "1/30s - 1/60s (capturing subtle motion blur on vehicles)",
+        "aperture": "f/5.6 - f/8.0 (deep depth of field for urban context)"
+    },
+    "lighting_setup": {
+        "time_of_day": "Late afternoon overcast ",
+        "weather": "Heavy overcast with ground fog/haze, post-rain wet pavement conditions ",
+        "lighting_direction": "Diffused zenith skylight, soft top-down illumination with no hard shadows",
+        "quality": "Ultra-soft, atmospheric, low-contrast diffused light, misty atmospheric perspective creating depth layers",
+        "artificial_light": "Subtle warm interior glow from building apertures, street lamp halos diffused by fog, vehicle headlights creating soft streaks on wet asphalt"
+    },
+    "color_grading": {
+        "palette": "Desaturated cool-gray dominant with monochromatic tendencies, subtle warm amber accent from interior lighting , muted greens in foliage, steel blue-gray sky",
+        "saturation": "Low saturation (60-70%), chromatic reduction for cinematic realism, selective desaturation on background buildings while preserving slight warmth on subject architecture",
+        "contrast": "Very low contrast, lifted blacks (crushed blacks avoided), flattened tonal curve for matte cinematic look, reduced clarity for atmospheric softness"
+    },
+    "texture_quality": {
+        "details": "Wet asphalt reflecting light, fog particles in atmosphere, soft tree foliage detail, architectural glazing reflections, subtle vehicle motion blur",
+        "surface_descriptions": "Clear glass with rain droplets, Locally polished wet asphalt with specular reflections, dense urban foliage in mist, concrete or stone pedestrian areas"
+    },
+    "composition_guide": {
+        "type": "Eye-level street photography perspective, environmental wide shot placing architecture within urban context, layered depth (foreground traffic, midground architecture)",
+        "balance": "Asymmetrical balance"
+    },
+    "atmosphere": {
+        "mood": "Cinematic urban melancholy, mysterious and contemplative, sophisticated metropolitan solitude, quiet drama in everyday cityscape",
+        "feeling": "Atmospheric depth and urban narrative, suspended time quality, contemplative observation of modern architecture within historic/dense urban fabric, quiet luxury of space"
+    },
+    "technical_quality": {
+        "post_processing": "Atmospheric haze enhancement, lifted blacks for matte film look, clarity reduction for softness, cinematic color grading with teal-shadows and subtle warm highlights, perspective correction for building horizontals, subtle grain addition for texture, reflection enhancement on wet ground",
+        "white_balance": "Cool shifted to 6500-7000K with magenta tint reduction, creating blue-gray cast typical of overcast/fog conditions",
+        "tone": "Log-like tonal curve with compressed highlights and lifted shadows (flattened S-curve), high dynamic range preservation, matte finish avoiding pure blacks or whites",
+        "vignette": "No vignette or extremely subtle (-5%) to maintain open atmospheric feel, possible slight edge darkening only to draw eye to center",
+        "dynamic_range": "High dynamic range capture (14+ stops) preserving detail in bright foggy sky and simultaneously in shadowed building undersides and tree canopies"
+    }
+}

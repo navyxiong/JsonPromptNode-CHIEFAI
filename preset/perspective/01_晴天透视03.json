@@ -1,0 +1,40 @@
+{
+    "camera_gear": {
+        "model": "Hasselblad X2D 100C / Phase One XF IQ4 150MP / Fujifilm GFX 100S",
+        "lens": "Wide-Angle Tilt-Shift TS-E 35mm f/2.8L / GF 32-64mm f/4 R LM WR",
+        "sensor": "Medium Format 100MP+ BSI CMOS",
+        "shutter_speed": "1/60s - 1/125s",
+        "aperture": "f/8.0 - f/11"
+    },
+    "lighting_setup": {
+        "time_of_day": "Early morning golden hour",
+        "weather": "Misty morning with light atmospheric haze",
+        "lighting_direction": "Soft diffused side-lighting from low-angle sun obscured by haze",
+        "quality": "Ultra-soft, ethereal, low-contrast diffused light, eliminating hard shadows",
+        "artificial_light": "White car lights (pure natural morning light)"
+    },
+    "color_grading": {
+        "palette": "Pastel Morandi palette: soft blush pink, pale mint green, desaturated cyan-white sky, warm facade",
+        "saturation": "Very low saturation (50-60%), desaturated pastel tones, chromatic softness",
+        "contrast": "Extremely low contrast, lifted blacks (+20), matte finish, no pure blacks"
+    },
+    "texture_quality": {
+        "details": "Ultra-fine detail with soft focus effect, smooth gradient on architectural glass, visible atmospheric haze particles",
+        "surface_descriptions": "Translucent glass"
+    },
+    "composition_guide": {
+        "type": "Eye-level perspective",
+        "balance": "Symmetrical balance"
+    },
+    "atmosphere": {
+        "mood": "Serene, ethereal, contemplative, minimalist poetry, quiet solitude",
+        "feeling": "Dreamlike transcendence, meditative calm, surreal urban sanctuary, weightless floating architecture"
+    },
+    "technical_quality": {
+        "post_processing": "High-key tonal processing: lifted blacks to +20-30, reduced clarity/dehaze (-20) for ethereal softness, pastel color grading with shifted hues toward pink/cyan, graduated filter softening upper sky, atmospheric haze effect added",
+        "white_balance": "Warm-shifted toward 6000-6500K with magenta tint reduction, emphasizing soft pink dawn light",
+        "tone": "High-key curve with compressed tonal range, middle-gray overall exposure, no clipping in highlights or shadows, matte paper-like finish",
+        "vignette": "No vignette or slight brightening vignette (+5%) to enhance airy openness",
+        "dynamic_range": "High dynamic range with post-processing emphasis on shadow lifting, preserving detail in very bright sky while maintaining ethereal softness throughout"
+    }
+}

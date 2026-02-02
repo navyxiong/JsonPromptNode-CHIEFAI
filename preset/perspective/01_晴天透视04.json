@@ -1,0 +1,40 @@
+{
+    "camera_gear": {
+        "model": "Sony A7R V / Canon EOS R5 / Nikon Z8",
+        "lens": "Wide-Angle 35mm f/1.4 GM / TS-E 35mm f/2.8L / PC Nikkor 35mm f/2.8",
+        "sensor": "Full-frame 45-61MP BSI CMOS",
+        "shutter_speed": "1/250s - 1/500s",
+        "aperture": "f/8.0 - f/11"
+    },
+    "lighting_setup": {
+        "time_of_day": "Late winter morning (10:00-11:00 AM, the solar altitude angle is relatively low)",
+        "weather": "Clear cloudless winter sky, high atmospheric clarity",
+        "lighting_direction": "Low-angle hard sunlight from camera left/southwest, creating long pronounced shadows",
+        "quality": "Hard directional soft warm sunlight, crisp shadow edges, high contrast between illuminated facades and shadow areas",
+        "artificial_light": "None (pure available natural light)"
+    },
+    "color_grading": {
+        "palette": "Cool-warm contrast palette: clear cyan-blue sky, cool gray shadows",
+        "saturation": "Natural saturation (90-95%), authentic color reproduction, slight enhancement on sky blues",
+        "contrast": "High contrast, deepened shadows (-20), elevated highlights, S-curve emphasizing textural depth"
+    },
+    "texture_quality": {
+        "details": "Ultra-sharp facade grid texture,  glazed window reflections, asphalt aggregate detail, clear visibility of interior furniture through glass",
+        "surface_descriptions": "Clear reflective glazing, asphalt texture with soft specular highlights "
+    },
+    "composition_guide": {
+        "type": "Three-point perspective worm's-eye view",
+        "balance": "Asymmetrical dynamic balance, strong diagonal shadow lines leading into frame"
+    },
+    "atmosphere": {
+        "mood": "Authentic urban solitude, crisp documentary realism, everyday China city life melancholy",
+        "feeling": "Quiet observation, geometric urban order, seasonal crispness, contemplative street photography atmosphere"
+    },
+    "technical_quality": {
+        "post_processing": "Perspective correction for vertical converging lines, clarity enhancement on architectural grid, shadow deepening for contrast, highlight recovery on sunlit facades, color temperature balancing between warm sunlight and cool shadows, chromatic aberration control",
+        "white_balance": "Daylight 5200K with slight warm shift (+5) to preserve winter sun warmth, separate shadow tinting toward cool blue",
+        "tone": "S-curve tonal response with compressed highlights on bright facade, open shadows with detail preservation in street level, medium-high contrast for crisp winter light",
+        "vignette": "No vignette or extremely subtle (-5%) to maintain documentary authenticity",
+        "dynamic_range": "High dynamic range capture (14+ stops) preserving detail simultaneously in bright sunlit building surfaces and deep shadow areas under benches and trees"
+    }
+}

@@ -1,0 +1,30 @@
+{
+  "style_extraction_template": {
+    "camera_and_perspective": {
+      "view_angle": "High-angle drone shot, 45° Bird's eye view, Aerial photography",
+      "lens_attributes": "Wide-angle 24mm lens, Rectilinear projection, Minimal distortion",
+      "depth_of_field": "Deep focus, f/8 aperture, Sharp throughout"
+    },
+    "lighting_and_atmosphere": {
+      "time_of_day": "Morning golden hour, Backlit sun position",
+      "light_quality": "Volumetric lighting, Strong directional sunlight, Atmospheric scattering, God rays effect from top-left",
+      "weather_conditions": "Clear sky with morning mist, Urban haze in background",
+      "shadow_style": "Long dramatic shadows, High contrast cast shadows, Cool blue shadows distinct form definition"
+    },
+    "color_and_grading": {
+      "palette_theme": "Photorealistic Urban, Natural tones, Cool blue shadows vs Warm highlights, Blue glass reflections",
+      "temperature": "Neutral balanced with slight cool blue bias in shadowed areas",
+      "post_processing": "High dynamic range (HDR), High clarity, Tone mapped, Slight bloom on highlights, Clean architectural finish"
+    },
+    "rendering_tech_specs": {
+      "engine_style": "V-Ray 6 Render style, Chaos Corona, Unreal Engine 5 Lumen",
+      "artistic_medium": "Photorealistic ArchViz, Professional Aerial Photography",
+      "detail_level": "8k resolution, Hyper-detailed textures, Masterpiece, Sharp edges",
+      "post_processing": "Perspective correction for perfect vertical alignment of buildings, clarity enhancement on architectural lines, highlight control on glazing reflections"
+    },
+    "environment_textures": {
+      "ground_surface": "Clean asphalt roads with lane markings, Concrete pavers",
+      "foliage_style": "Lush summer vegetation, Tree-lined streets, Manicured urban landscape, Green canopy"
+    }
+  }
+}

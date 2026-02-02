@@ -1,0 +1,40 @@
+{
+    "camera_gear": {
+        "model": "Phase One XF IQ4 150MP / Hasselblad H6D-100c / Canon EOS R5",
+        "lens": "Tilt-Shift Wide-Angle TS-E 24mm f/3.5L II / PC-E Nikkor 24mm f/3.5D ED",
+        "sensor": "Medium Format 150MP BSI CMOS / Full-frame 45MP stacked sensor",
+        "shutter_speed": "1/30s - 1/60s",
+        "aperture": "f/8.0 - f/11"
+    },
+    "lighting_setup": {
+        "time_of_day": "Civil Twilight (20-30 minutes after sunset, blue hour, when the sky remains clear and blue)",
+        "weather": "Clear sky with high atmospheric transparency",
+        "lighting_direction": "Residual top skylight from zenith  mixed with warm base-up landscape lighting",
+        "quality": "High-key soft ambient light with multi-layer artificial illumination",
+        "artificial_light": "Integrated landscape lighting system: ground-recessed LED uplights (3000K) illuminating tree canopies, linear LED cove lighting (2700K) under trees, dark amber interior office lights glowing through glass at low floor"
+    },
+    "color_grading": {
+        "palette": "Split-tone with cyan-blue sky (4500K) contrasting against dark amber landscape lighting (3000K)",
+        "saturation": "Low saturation with enhanced vibrancy in sky blues and landscape greens, warm tones intensified in lighting fixtures, low saturation shadow area",
+        "contrast": "Medium contrast with lifted shadows, reduced contrast ratio between interior and exterior, smooth tonal transitions"
+    },
+    "texture_quality": {
+        "details": "Ultra-sharp architectural details capturing glass reflections, individual leaves on illuminated trees, and warm glow gradients on bench surfaces, clear visibility of interior furniture through glass",
+        "surface_descriptions": "Low-iron reflective glazing mirroring sky gradient, warm-toned stone, smooth paving stones reflecting ambient light"
+    },
+    "composition_guide": {
+        "type": "Symmetrical one-point perspective, eye-level camera height",
+        "balance": "Perfect symmetrical balance"
+    },
+    "atmosphere": {
+        "mood": "Welcoming",
+        "feeling": "Airy, prosperous, technologically advanced yet naturally integrated, inviting communal space"
+    },
+    "technical_quality": {
+        "post_processing": "Perspective correction for perfect vertical alignment of buildings, clarity enhancement on architectural lines, highlight control on glazing reflections",
+        "white_balance": "Dual white balance: exterior balanced to 4000K for clean blue sky, artificial lighting allowed warm rendering at 3000K creating natural color contrast",
+        "tone": "High-tone dominant (Dark grey values), avoiding crushed blacks",
+        "vignette": "None",
+        "dynamic_range": "Standard dynamic range with emphasis on preserving texture in highlight area"
+    }
+}

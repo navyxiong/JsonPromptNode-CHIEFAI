@@ -1,0 +1,29 @@
+{
+  "style_extraction_template": {
+    "camera_and_perspective": {
+      "view_angle": "High-angle drone shot, Wide aerial cityscape, 45° looking down",
+      "lens_attributes": "Wide-angle 24mm, Low distortion, Deep depth of field, Corner-to-corner sharpness",
+      "depth_of_field": "Infinite focus, Everything sharp, No bokeh"
+    },
+    "lighting_and_atmosphere": {
+      "time_of_day": "Deep Blue Hour, After-sunset twilight (not quite night yet)",
+      "light_quality": "Dominant cool skylight ambient with subtle Violet tint, Soft diffuse illumination, Mixing with warm city lights",
+      "weather_conditions": "Heavy urban haze creating atmospheric perspective, The haze carries a Bluish-Purple cast",
+      "shadow_style": "Soft, low-contrast ambient shadows, Shadows are deep cool blue/indigo (not pure black or strong purple)"
+    },
+    "color_and_grading": {
+      "palette_theme": "Twilight Blue with Violet undertones (Indigo), Cool ambient vs Warm Tungsten lights, muted urban tones",
+      "temperature": "Cool Color Temperature (around 7000K) with slight Magenta bias (Tint +10)",
+      "post_processing": "Low contrast film look, Lifted blacks (dark gray-blue shadows), Desaturated slightly to enhance the hazy mood, Smooth gradient in sky"
+    },
+    "rendering_tech_specs": {
+      "engine_style": "Corona Renderer, V-Ray 6, Photorealistic ArchViz",
+      "artistic_medium": "Photorealistic Urban Aerial Photography, Cinematic Color Grading",
+      "detail_level": "8k resolution, Soft atmospheric details alongside sharp architectural lines"
+    },
+    "environment_textures": {
+      "ground_surface": "Matte asphalt, Concrete rooftops reflecting the cool twilight sky",
+      "foliage_style": "Dark, desaturated cool green vegetation blending into the blue hour shadows"
+    }
+  }
+}

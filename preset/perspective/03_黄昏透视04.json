@@ -1,0 +1,41 @@
+{
+    "camera_gear": {
+        "model": "Canon EOS R5",
+        "lens": "Canon TS-E 24mm f/3.5L II (Tilt-Shift)",
+        "sensor": "Full Frame CMOS (45MP)",
+        "shutter_speed": "1/4 sec (Slow Shutter)",
+        "aperture": "f/11 (Deep depth of field)",
+        "iso": "400 (To balance the relatively bright overcast sky with the street level darkness)"
+    },
+    "lighting_setup": {
+        "time_of_day": "Civil Twilight (Overcast/Grey Hour)",
+        "weather": "Heavy cloud cover, The sky presents a gradient color tone from dark gray to light yellow,Approaching the horizon is a warm pale yellow sunset glow",
+        "lighting_direction": "Ambient Top Light (Soft) + Kinetic Street Lighting",
+        "quality": "Flat, shadowless natural light mixed with directional artificial streaks",
+        "artificial_light": "Grid of soft (6500K) interior office lights, bright red taillight trails"
+    },
+    "color_grading": {
+        "palette": "Muted Urban Tones; Off-White (Facade), Desaturated Sky vs. Pop of Red (Car lights) , Soft yellow (Windows) and grey blue shadow",
+        "saturation": "Low global saturation, High luminance on light sources",
+        "contrast": "Medium (The image is not high-contrast like the Blue Hour shots; it relies on the color contrast between the red trails and grey street)"
+    },
+    "texture_quality": {
+        "details": "Razor-sharp vertical mullions, clear visibility of interior furniture through glass",
+        "surface_descriptions": "Glass windows showing depth, asphalt road with motion blur sheen"
+    },
+    "composition_guide": {
+        "type": "Street Level 2-Point Perspective",
+        "balance": "Asymmetrical"
+    },
+    "atmosphere": {
+        "mood": "Busy, Industrial, Transitional, Realistic",
+        "feeling": "The hustle of urban infrastructure; a 'Documentary' architectural style"
+    },
+    "technical_quality": {
+        "post_processing": "Motion Blur capture (Ghosting cars), Perspective Correction (Verticals kept straight), Highlight recovery in sky",
+        "white_balance": "Daylight/Cloudy (approx 5800K) - Keeping the grey sky neutral, rendering the interior lights soft",
+        "tone": "Mid-tone dominant (Grey values), avoiding crushed blacks",
+        "vignette": "None",
+        "dynamic_range": "Standard-High (Preserving sky detail while capturing dark street corners)"
+    }
+}

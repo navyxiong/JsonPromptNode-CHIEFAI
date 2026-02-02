@@ -1,0 +1,40 @@
+{
+    "camera_gear": {
+        "model": "Phase One XT Camera System (Medium Format)",
+        "lens": "Rodenstock HR Digaron-W 40mm f/4 (With vertical shift)",
+        "sensor": "IQ4 150MP Achromatic-ready Back",
+        "shutter_speed": "1/60 sec (Tripod mounted)",
+        "aperture": "f/16 (For maximum edge-to-edge sharpness)"
+    },
+    "lighting_setup": {
+        "time_of_day": "Overcast Afternoon / White Sky",
+        "weather": "Heavy cloud cover creating a giant softbox effect",
+        "lighting_direction": "Omni-directional diffused top light",
+        "quality": "Extremely soft, shadowless, flat illumination (High-Key)",
+        "artificial_light": "Subtle 6000K interior office lighting visible through glazing, balancing the exterior flatness"
+    },
+    "color_grading": {
+        "palette": "Minimalist High-Key; Faint light yellow accents from windows",
+        "saturation": "Low / Desaturated (almost monochromatic feel)",
+        "contrast": "Low global contrast, High local micro-contrast (structure emphasis)"
+    },
+    "texture_quality": {
+        "details": "Ultra-sharp texture of materials",
+        "surface_descriptions": "Transparent glass, rough ground texture"
+    },
+    "composition_guide": {
+        "type": "Orthographic Projection style",
+        "balance": "Perfect Symmetrical Central Composition"
+    },
+    "atmosphere": {
+        "mood": "Clinical, Precise, Rational, Silent",
+        "feeling": "Architectural purity and structural weightlessness (Cantilever effect)"
+    },
+    "technical_quality": {
+        "post_processing": "Zero-distortion correction, Keystone correction (perfectly vertical lines), Exposure blending for interior lights",
+        "white_balance": "Neutral Daylight (1500K)",
+        "tone": "Flat curve with lifted shadows",
+        "vignette": "None",
+        "dynamic_range": "High (retaining texture in the bright white sky and the dark interior windows)"
+    }
+}

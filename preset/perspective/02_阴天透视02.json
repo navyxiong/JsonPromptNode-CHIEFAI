@@ -1,0 +1,40 @@
+{
+    "camera_gear": {
+        "model": "Sony A7R V / Fujifilm GFX 100S / Canon EOS R5",
+        "lens": "Tilt-Shift Wide-Angle TS-E 24mm f/3.5L II / PC Nikkor 24mm f/3.5D ED / GF 30mm f/3.5 TS",
+        "sensor": "Full-frame 61MP BSI CMOS / Medium Format 102MP sensor",
+        "shutter_speed": "1/60s - 1/125s (capturing subtle motion blur on vehicles)",
+        "aperture": "f/8.0 - f/11 (deep depth of field for environmental context)"
+    },
+    "lighting_setup": {
+        "time_of_day": "Late morning to early afternoon (10:00 AM - 2:00 PM)",
+        "weather": "Overcast with heavy cloud cover, diffused natural light",
+        "lighting_direction": "Soft top-down diffused skylight from zenith, minimal directional shadow",
+        "quality": "Ultra-soft, diffused, even lighting, shadowless illumination with gray sky acting as giant softbox",
+        "artificial_light": "None (available natural light only)"
+    },
+    "color_grading": {
+        "palette": "Naturalistic urban palette, fresh green foliage, neutral gray asphalt and white road markings, desaturated blue-gray sky",
+        "saturation": "Medium saturation (80-85%), natural color rendering with slight desaturation on greens for realism, authentic urban color balance",
+        "contrast": "Low to medium contrast, lifted shadows for detail in building interiors and under canopies, compressed highlights for cloud detail retention"
+    },
+    "texture_quality": {
+        "details": "High-resolution capture of roofing texture, vehicle motion blur, pedestrian activity, asphalt aggregate texture, tree foliage definition",
+        "surface_descriptions": "Clear glass reflections, textured asphalt road surface, concrete traffic barriers, lush green tree canopies"
+    },
+    "composition_guide": {
+        "type": "Environmental street photography perspective, two-point perspective converging toward building center, eye-level camera height",
+        "balance": "Asymmetrical dynamic balance, vertical rhythm of street lights framing the composition"
+    },
+    "atmosphere": {
+        "mood": "Authentic urban documentary, everyday metropolitan rhythm, integration of architecture with civic infrastructure, dynamic coexistence of static building and moving traffic",
+        "feeling": "Vibrant city life, accessible public architecture, momentary capture of urban flow, realistic portrayal of architectural context within bustling streetscape"
+    },
+    "technical_quality": {
+        "post_processing": "Perspective correction for vertical lines, clarity and structure enhancement on architectural forms, motion blur preservation on vehicles for dynamism, chromatic aberration removal, shadow lifting (+25) for under-canopy detail",
+        "white_balance": "Cloudy preset (6000-6500K) with neutral tint, preserving cool overcast sky while maintaining warm building material accuracy",
+        "tone": "Mid-key tonal range with bright but soft overall exposure, neutral contrast curve with slight S-curve for pop, crushed blacks avoided to preserve asphalt texture detail",
+        "vignette": "No vignette or extremely subtle (-5%) to maintain documentary realism and even illumination",
+        "dynamic_range": "High dynamic range processing (14+ stops) simultaneously preserving detail in bright overcast sky clouds and shadowed building undercroft/entrance areas"
+    }
+}

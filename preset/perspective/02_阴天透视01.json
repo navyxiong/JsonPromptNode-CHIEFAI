@@ -1,0 +1,40 @@
+{
+    "camera_gear": {
+        "model": "Fujifilm GFX 100S",
+        "lens": "Fujinon GF 23mm f/4 R LM WR (Wide Angle)",
+        "sensor": "Medium Format (43.8 x 32.9mm)",
+        "shutter_speed": "1/125 sec",
+        "aperture": "f/8.0"
+    },
+    "lighting_setup": {
+        "time_of_day": "Mid-day (Overcast)",
+        "weather": "Heavy Cloud Cover / Flat Lighting",
+        "lighting_direction": "Omni-directional diffused skylight",
+        "quality": "Extremely soft, shadowless, low-contrast illumination",
+        "artificial_light": "None (Natural light only)"
+    },
+    "color_grading": {
+        "palette": "Hign-key Neutral; Desaturated Foliage and dark Greens",
+        "saturation": "Low / Naturalistic",
+        "contrast": "Low global contrast, focus on mid-tone separation"
+    },
+    "texture_quality": {
+        "details": "Crisp definition in architectural lines and organic tree branches",
+        "surface_descriptions": "Semi-reflective glass showing overcast sky"
+    },
+    "composition_guide": {
+        "type": "Two-point perspective with layered foreground",
+        "balance": "Asymmetrical balance"
+    },
+    "atmosphere": {
+        "mood": "Clinical, Serene, Architectural Documentation",
+        "feeling": "Cleanliness and spatial fluidity"
+    },
+    "technical_quality": {
+        "post_processing": "Exposure balance",
+        "white_balance": "Daylight (5500K) adjusted for overcast tint",
+        "tone": "Soft gradient, no harsh blacks or blown highlights",
+        "vignette": "None",
+        "dynamic_range": "Standard dynamic range with emphasis on preserving texture in highlight area"
+    }
+}

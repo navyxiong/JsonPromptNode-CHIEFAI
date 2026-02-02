@@ -1,0 +1,40 @@
+{
+    "camera_gear": {
+        "model": "Phase One IQ4 150MP System",
+        "lens": "Schneider Kreuznach 35mm LS f/3.5 Blue Ring (Tilt-Shift applied)",
+        "sensor": "Medium Format (53.4 x 40mm)",
+        "shutter_speed": "1/4 sec (tripod mounted)",
+        "aperture": "f/11"
+    },
+    "lighting_setup": {
+        "time_of_day": "Blue Hour (Civil Twilight)",
+        "weather": "Overcast with soft diffused skylight, light pink thin clouds",
+        "lighting_direction": "Frontal ambient fill mixed with interior emission",
+        "quality": "Soft, shadowless exterior light vs hard internal point sources",
+        "artificial_light": "Warm Tungsten (3200K) interior office lighting radiating outward"
+    },
+    "color_grading": {
+        "palette": "Complementary scheme; Muted Amber with low saturation/Gold highlights",
+        "saturation": "Low saturation with emphasis on luminance contrast",
+        "contrast": "Medium micro-contrast in architectural details, balanced global contrast"
+    },
+    "texture_quality": {
+        "details": "High-frequency detail in glass mullions and tree foliage.Clear visibility of interior furniture through glass",
+        "surface_descriptions": "Reflective glazing, textured asphalt foreground, metal diffuse reflection, organic leaf transparency"
+    },
+    "composition_guide": {
+        "type": "Orthogonal / One-point perspective",
+        "balance": "Symmetrical horizontal framing with grounded foreground"
+    },
+    "atmosphere": {
+        "mood": "Professional, Serene, High-end Corporate",
+        "feeling": "Transparency and modern urban integration"
+    },
+    "technical_quality": {
+        "post_processing": "Keystone correction (verticals parallel), Highlight recovery, Dehaze",
+        "white_balance": "Custom (approx 2800K) to retain blue sky while warming interiors",
+        "tone": "HDR-like dynamic range, lifted shadows in foreground",
+        "vignette": "Minimal/None",
+        "dynamic_range": "14-stop dynamic range to capture deep shadows and bright interior lights"
+    }
+}
