@@ -13,7 +13,7 @@
     },
     "architectural_lighting": {
       "interior_illumination": "Daylight reflection on glass, Dark recessed window cavities, Non-illuminated interiors (Daytime state)",
-      "exterior_facade_effects": "Natural sunlight highlighting white geometric forms, Pure white diffuse reflection, Shadow play on curved volumes, No artificial exterior lighting visible"
+      "exterior_facade_effects": "Natural sunlight highlighting geometric forms, Warm white diffuse reflection, Shadow play on curved volumes, No artificial exterior lighting visible"
     },
     "landscape_lighting": {
       "hardscape_illumination": "Natural daylight exposure on geometric paving patterns, High albedo surface reflection",

@@ -1,0 +1,38 @@
+{
+  "style_extraction_template": {
+    "camera_and_perspective": {
+      "view_angle": "Long-range Skyline Panorama, Eye-level Aerial Shot, Telephoto compressed perspective",
+      "lens_attributes": "Telephoto lens (100mm-200mm equivalent), High perspective compression (flattening depth between foreground and background), Rectilinear projection",
+      "depth_of_field": "Deep focus, Infinite depth of field, Sharp details across all architectural layers"
+    },
+    "lighting_and_atmosphere": {
+      "time_of_day": "Dramatic Sunset, Golden Hour (Sun low on horizon)",
+      "light_quality": "Strong Directional Sunlight (Frontal light from the direction of the lens), Volumetric atmospheric scattering, High Contrast (Chiaroscuro), Rim lighting on buildings",
+      "weather_conditions": "Burning dramatic sky, Broken Altocumulus clouds catching bright orange/pink light, Clear air with slight atmospheric haze enhancing depth",
+      "shadow_style": "Long horizontal cast shadows, Deep cool violet/blue shadows in urban canyons contrasting with intense warm highlights"
+    },
+    "architectural_lighting": {
+      "interior_illumination": "Minimal interior lighting (overpowered by natural sunset), Faint warm window spill in shadowed lower buildings",
+      "exterior_facade_effects": "Blinding specular reflections of sunset on glass, Golden sheen on building structures, Warm illumination of building surfaces"
+    },
+    "landscape_lighting": {
+      "hardscape_illumination": "Natural grazing light on rooftops, highlighting texture of roof tiles and geometric city blocks",
+      "vegetation_highlighting": "Sun-drenched tree canopies appearing warm orange/brown, Deep shadows beneath trees, Dense urban forest texture",
+      "water_feature_effects": "N/A"
+    },
+    "color_and_grading": {
+      "palette_theme": "Warm Analogous with Cool Shadows, Burning Orange/Vermillion/Gold Sky vs Slate Blue/Violet Shadows",
+      "temperature": "Dominant Warm Color Temp (3500K-4000K) on illuminated faces, Cool Shadow Temp (7500K)",
+      "post_processing": "High Saturation, Cinematic Warmth, Increased Clarity and Structure, HDR tone mapping to balance bright sky and dark city"
+    },
+    "rendering_tech_specs": {
+      "engine_style": "V-Ray 6 (Sun & Sky system), Corona Renderer, Unreal Engine 5",
+      "artistic_medium": "Cinematic Urban Landscape Photography, National Geographic Style Cityscape",
+      "detail_level": "8k resolution, Hyper-realistic cloud textures, Intricate rooftop details, Sharp skyline silhouettes"
+    },
+    "environment_textures": {
+      "ground_surface": "Asphalt roads glowing from streetlights, Dense urban fabric",
+      "foliage_style": "Autumnal or warm-lit urban plants, Dense patches of trees separating architectural layers"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "style_extraction_template": {
+    "camera_and_perspective": {
+      "view_angle": "Wide-angle Aerial Drone Shot, 45° Bird's eye view, Establishing cityscape shot",
+      "lens_attributes": "24mm Wide-angle lens, Rectilinear projection, High sharpness edge-to-edge, Slight perspective compression bringing the background skyline closer",
+      "depth_of_field": "Deep focus, Hyperfocal distance, Sharp details from foreground office park to distant CBD skyline"
+    },
+    "lighting_and_atmosphere": {
+      "time_of_day": "Early Twilight / Soft Sunset (Sun is behind clouds), Magic Hour transition",
+      "light_quality": "Soft Diffuse Global Illumination (GI), No harsh directional sunlight, Wrap-around soft light, Low contrast lighting",
+      "weather_conditions": "Partly cloudy with pastel colored clouds (Pink/Lavender/Soft Blue), Hazy atmosphere adding depth to the skyline, Gentle visibility",
+      "shadow_style": "Very soft ambient occlusion, Faint cast shadows (almost non-existent), Diffuse shading on building facades"
+    },
+    "architectural_lighting": {
+      "interior_illumination": "Minimal to None (Daylight dominant), Faint reflection of sky on glass, No active artificial interior lights",
+      "exterior_facade_effects": "Natural reflection of the pink/purple sky on glass curtain walls, Vertical metallic fins catching the soft ambient skylight, No artificial LED strips active"
+    },
+    "landscape_lighting": {
+      "hardscape_illumination": "Natural daylight/twilight only, Street lights are OFF, No light trails",
+      "vegetation_highlighting": "Natural soft lighting on tree canopies, Lush green tones appearing slightly desaturated due to lower light levels"
+    },
+    "color_and_grading": {
+      "palette_theme": "Pastel Aesthetic, Soft Pink/Lavender/Baby Blue Sky vs Neutral Silver/Grey Architecture, Low Saturation",
+      "temperature": "Neutral balanced (5500K) with a distinct Magenta/Pink Tint (Tint +10), Soft Cool Shadows",
+      "post_processing": "Low Contrast, Matte finish (lifted shadows), Soft bloom on sky highlights, Pastel color grading, Clean and airy look"
+    },
+    "rendering_tech_specs": {
+      "engine_style": "Corona Renderer (focus on soft skylight), V-Ray 6, Unreal Engine 5",
+      "artistic_medium": "Photorealistic Aerial Urban Photography, Fine Art Cityscape",
+      "detail_level": "8k resolution, High fidelity textures on building facades (vertical louvers), Realistic cloud volume"
+    },
+    "environment_textures": {
+      "ground_surface": "Clean asphalt roads (dry), Manicured green lawns, Concrete plazas with subtle texture",
+      "foliage_style": "Dense urban greenery, Round tree canopies, Organized landscaping patterns"
+    }
+  }
+}

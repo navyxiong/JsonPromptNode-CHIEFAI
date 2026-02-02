@@ -1,0 +1,38 @@
+{
+  "style_extraction_template": {
+    "camera_and_perspective": {
+      "view_angle": "Steep Aerial Drone Shot, 60° Bird's eye view, Almost Isometric perspective",
+      "lens_attributes": "50mm Standard lens equivalent, Low perspective distortion (Orthographic feel), High clarity, Edge-to-edge sharpness",
+      "depth_of_field": "Deep focus, Hyperfocal distance, Everything in sharp focus from rooftops to street level"
+    },
+    "lighting_and_atmosphere": {
+      "time_of_day": "Late Afternoon (approx 4:00 PM), Low solar angle",
+      "light_quality": "Strong Directional Sunlight (Raking Light) on the main buildings, Hard Light source creating distinct shadow lines, High Contrast (Chiaroscuro)",
+      "weather_conditions": "Crystal Clear Sky, High visibility, No atmospheric haze, Crisp air",
+      "shadow_style": "Long, deep, distinct cast shadows; Cool blue-toned shadows contrasting with warm sunlit facades"
+    },
+    "architectural_lighting": {
+      "interior_illumination": "Daylight dominant, No visible artificial interior lighting, Reflective glass mirroring the sky and surrounding buildings",
+      "exterior_facade_effects": "Natural sunlight highlighting the texture of the facade, 'Self-shadowing' of architectural elements"
+    },
+    "landscape_lighting": {
+      "hardscape_illumination": "Natural daylight illuminating the paving patterns, High contrast between sunlit facade and shadowed asphalt",
+      "vegetation_highlighting": "Top-down sunlight on roofs, creating a vibrant pop against the bright architecture",
+      "water_feature_effects": "N/A"
+    },
+    "color_and_grading": {
+      "palette_theme": "High Contrast Modernism, Stark White/Grey Architecture vs Deep Black Shadows vs Vibrant Roofs",
+      "temperature": "Dual Tone: Warm Golden Sunlight (4500K) on illuminated faces vs Cool Blue Skylight (7500K) in shadows",
+      "post_processing": "High Clarity, Structure enhancement, Neutral White Balance (slight warm bias in highlights), Low Saturation in shadows"
+    },
+    "rendering_tech_specs": {
+      "engine_style": "V-Ray 6 (Sun & Sky system), Corona Renderer, Octane Render (Daylight)",
+      "artistic_medium": "Photorealistic Architectural Survey, Aerial Real Estate Photography",
+      "detail_level": "8k resolution, Sharp geometric edges, Detailed rooftop mechanical equipment textures (HVAC units)"
+    },
+    "environment_textures": {
+      "ground_surface": "Dark asphalt roads with crisp white traffic markings, Light grey geometric paving in courtyards",
+      "foliage_style": "Rectangular patches of courtyard lawn, Urban street trees"
+    }
+  }
+}
