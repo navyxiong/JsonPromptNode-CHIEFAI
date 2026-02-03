@@ -1,41 +1,50 @@
 {
     "camera_gear": {
-        "model": "Canon EOS R5",
-        "lens": "Canon TS-E 24mm f/3.5L II (Tilt-Shift)",
-        "sensor": "Full Frame CMOS (45MP)",
-        "shutter_speed": "2.5 sec (Long exposure)",
-        "aperture": "f/16 (Small aperture to extend exposure time and ensure deep depth of field)",
-        "iso": "100"
+        "model": "Sony A7R V or Phase One IQ4 150MP",
+        "lens": "Canon TS-E 24mm f/3.5L II (adapted) or Sony FE 24-70mm GM II (at 35mm)",
+        "sensor": "Full Frame 61MP BSI CMOS or Medium Format",
+        "shutter_speed": "1/10 sec to 1/15 sec (slow shutter to create motion blur on passing vehicles)",
+        "aperture": "f/11 (to ensure edge-to-edge sharpness and create sunstar effect on specular highlights)"
     },
     "lighting_setup": {
-        "time_of_day": "Civil Twilight (Overcast Evening)",
-        "weather": "Cloudy/Overcast sky creating a soft, diffuse, high-key white background",
-        "lighting_direction": "Mixed: Omni-directional soft skylight + Internal Warm Emission + Dynamic Street lighting",
-        "quality": "Soft shadowless ambient light contrasting with the hard streaks of car lights",
-        "artificial_light": "4000K interior office lighting, Amber and White horizontal light trails"
+        "time_of_day": "Golden Hour (Late Afternoon, approx. 1 hour before sunset)",
+        "weather": "Sunny with scattered clouds, clear visibility",
+        "lighting_direction": "Direct Western Backlight/Sidelight (Contre-jour), creating a massive specular reflection on the building facade",
+        "quality": "Sky Gradient: A smooth diagonal gradient from Steel Blue (#4682B4) in the top-left zenith fading into a hazy Pale Cyan (#E0FFFF) towards the horizon. High-contrast directional light mixed with soft cool ambient fill in shadows ",
+        "artificial_light": "Mixed color temperature: 2700K sodium vapor street lighting, 4000K LED building illumination, 5600K neutral signage backlights"
+    },
+    "architectural_lighting": {
+        "interior_illumination": "Minimal visibility, overpowered by the exterior reflection",
+        "exterior_facade_effects": "Blinding sunburst reflection on the glass. Color codes: Solar Glint #FFF8E1 (Pale Gold) transitioning to #FFAE00 (Vivid Orange) and #D35400 (Pumpkin) on the glass mullions."
+    },
+    "landscape_lighting": {
+        "hardscape_illumination": "Color codes: #2C3E50 (Dark Slate Blue) and #34495E (Cool Grey) reflecting the zenith sky, contrasting with the warm building.",
+        "vegetation_highlighting": "Sun-drenched tree canopies, Deep shadows beneath trees, White lane markings"
     },
     "color_grading": {
-        "palette": "White & Gold with Red Accents; Dominant cool white sky vs. Warm yellow interiors vs. Light red taillight streaks",
-        "saturation": "Natural to Desaturated (Sky/Trees), Vibrant (Lights)",
-        "contrast": "Medium-High (emphasizing the glowing box effect against the pale sky)"
+        "palette": "Strong Complementary Contrast: Burning Gold/Orange (#FF8C00) highlights vs. Cool Slate Blue/Cyan (#2E4053) shadows",
+        "saturation": "High saturation in the orange spectrum, desaturated cool tones in the shadows",
+        "contrast": "High Dynamic Range (HDR) look, preserving details in the blinding highlight while maintaining deep blacks in the foreground cars"
     },
     "texture_quality": {
-        "details": "Razor-sharp vertical mullions, clear visibility of interior furniture through glass",
-        "surface_descriptions": "Translucent glass, motion-blurred light streaks on asphalt"
+        "details": "Motion blur streaks of vehicles",
+        "surface_descriptions": "Highly reflective glazing acting as a mirror, matte asphalt absorbing light",
+        "ground_surface": "Asphalt texture visible but softened by motion blur and shadow, cool blue cast",
+        "foliage_style": "Dormant or sparse, providing scale"
     },
     "composition_guide": {
-        "type": "2-Point Perspective",
-        "balance": "Layered Composition"
+        "type": "Wide-angle street view, two-point perspective",
+        "balance": "Asymmetrical balance"
     },
     "atmosphere": {
-        "mood": "Dynamic, Urban, Translucent, Efficient",
-        "feeling": "The intersection of stillness (architecture) and speed (city life)"
+        "mood": "Energetic, dynamic, blindingly bright yet urbanely cool",
+        "feeling": "The rush of the city at the end of the workday, modern efficiency, architectural brilliance"
     },
     "technical_quality": {
-        "post_processing": "Motion Blur capture (Light Trails), Perspective Correction (Shift), Highlight compression",
-        "white_balance": "Daylight (5500K) - Keeping the building structure neutral/cool, making the tungsten interior appear soft orange",
-        "tone": "High-Key Twilight (Bright sky, rich mid-tones)",
-        "vignette": "None",
-        "dynamic_range": "High (Balancing the bright overcast sky with the interior luminance)"
+        "post_processing": "Highlight compression to retain sunburst detail, cool toning in shadows (Split Toning), motion blur enhancement",
+        "white_balance": "Daylight (5600K) adjusted to let shadows drift blue while highlights remain intensely warm",
+        "tone": "High contrast S-Curve, crushed blacks in the car undercarriages",
+        "vignette": "Subtle darkening at the bottom corners to frame the road",
+        "dynamic_range": "14 stops, critical retention of highlight data in the sun reflection"
     }
 }

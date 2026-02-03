@@ -1,40 +1,46 @@
 {
     "camera_gear": {
-        "model": "Phase One XF IQ4 150MP",
-        "lens": "Rodenstock HR Digaron-W 32mm f/4.0 Tilt-Shift lens (Shifted for vertical correction)",
-        "sensor": "Medium Format CMOS (53.4 x 40mm)",
-        "shutter_speed": "1/125s",
-        "aperture": "f/11 (Sweet spot for edge-to-edge sharpness and deep depth of field)"
+        "model": "Hasselblad X2D 100C or Phase One IQ4 150MP",
+        "lens": "Rodemstock HR 23mm tilt-shift or Schneider Kreuznach 28mm PC TS lens with 12mm shift",
+        "sensor": "Medium format 100MP+ CMOS with 15 stops dynamic range",
+        "shutter_speed": "1/8s for traffic light trails, bracketed 1/60s to 4s for HDR exposure blending",
+        "aperture": "f/11-f/16 for optimal hyperfocal distance and starburst effects on point light sources"
     },
     "lighting_setup": {
-        "time_of_day": "Mid-afternoon, Golden Hour transition",
-        "weather": "Partly cloudy with diffused high-altitude sun",
-        "lighting_direction": "Side-lighting (approx. 45-degree angle from the left), accentuating architectural relief",
-        "quality": "Soft-edged shadows, balanced global illumination with warm highlights on metallic surfaces",
-        "artificial_light": "None, pure natural environmental light"
+        "time_of_day": "Golden Hour (Late Sunset), sun angle very low",
+        "weather": "Crystal clear atmosphere, high visibility",
+        "lighting_direction": "Direct, horizontal low highlight deep amber sunset light(#E69E46) hits the front facade, while the foreground is blocked from direct light",
+        "quality": "Extreme contrast: Soft warm direct light on the building vs. deep, blue ambient light in the foreground vs dark blue sky",
+        "artificial_light": "Mixed color temperature: 2700K sodium vapor street lighting, 4000K LED building illumination, 5600K neutral signage backlights"
+    },
+    "architectural_lighting": {
+        "interior_illumination": "Warm white glow visible through glass glazing, selective floor illumination in lobby areas, backlit elevator cores",
+        "exterior_facade_effects": "Front facade bathed in soft amber sunlight, glass reflecting the warm sun, creating a 'golden tower' effect"
+    },
+    "landscape_lighting": {
+        "hardscape_illumination": "Foreground submerged in gray-blue shadows(#2F4F4F), skylight reflections",
+        "vegetation_highlighting": "Trees in the foreground are in silhouette or cool shadow, contrasting with the bright warm building"
     },
     "color_grading": {
-        "palette": "Metallic reflections, pale cerulean sky, earthy green foliage",
-        "saturation": "Naturalistic, slightly pulled back to emphasize material texture",
-        "contrast": "Medium micro-contrast, preserved shadow detail in the ornate archways"
+        "palette": "Strong Warm/Cool contrast: The highlight reflection area of the building is light gold (# FAD7A0), the core light receiving surface is amber gold (# E69E46), and the warm transition area is a reddish caramel color (# A65832) vs. Gray-Blue/Slate foreground shadows (#2F4F4F)",
+        "saturation": "Medium saturation in the golden sunlit areas, desaturated cool tones in the shadows",
+        "contrast": "High contrast ratio, emphasizing the separation between the lit subject and the shadowed environment"
     },
     "texture_quality": {
-        "details": "Ultra-high fidelity; crisp reflections on glass. Clear visibility of interior furniture through glass,",
-        "surface_descriptions": "High-gloss reflective glass; asphalt texture with soft specular highlights"
-    },
-    "composition_guide": {
-        "type": "One-point perspective with strong leading lines; vertical lines strictly parallel (no keystone effect)",
-        "balance": "Asymmetrical balance"
+        "details": "High-frequency details in glass mullions resolving the golden reflections",
+        "surface_descriptions": "Low-iron glass with anti-reflective coating",
+        "ground_surface": "Foreground in shadow, appearing matte and cool blue-grey, reflecting only the zenith sky, White lane line",
+        "foliage_style": "Dark, shadowed masses of urban planting in the foreground, framing the lit architecture"
     },
     "atmosphere": {
-        "mood": "Sophisticated, timeless, serene urban afternoon",
-        "feeling": "The peaceful scenery"
+        "mood": "Dramatic isolation, the building stands out as a beacon of light",
+        "feeling": "Solitary contemplation, the last light of day highlighting the monumentality of the architecture against the darkening city"
     },
     "technical_quality": {
-        "post_processing": "Non-destructive RAW editing, subtle lens distortion correction, localized highlight recovery",
-        "white_balance": "5500K (Daylight balanced with a slight warm bias in reflections)",
-        "tone": "Linear tonal curve with a gentle lift in mid-tones",
-        "vignette": "Zero vignetting, consistent exposure across the entire frame",
-        "dynamic_range": "High Dynamic Range (HDR) optimized for shadow detail in recessed balconies and bright sky clouds"
+        "post_processing": "Multi-exposure HDR blending to handle the extreme dynamic range between sunlit facade and shadowed foreground",
+        "white_balance": "Daylight balanced (5500K) to render the sunset warm and the shadows naturally cool/blue",
+        "tone": "S-curve with deep shadows, keeping the foreground dark to guide the eye to the bright building",
+        "vignette": "Organic asymmetric vignette, heavier at the bottom to push focus upwards to the light",
+        "dynamic_range": "Maximized recovery, ensuring the golden highlights don't clip while retaining just enough texture in the deep blue shadows"
     }
 }

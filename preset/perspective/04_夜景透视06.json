@@ -1,0 +1,41 @@
+{
+    "camera_gear": {
+        "model": "Canon EOS R5",
+        "lens": "Canon TS-E 24mm f/3.5L II (Tilt-Shift)",
+        "sensor": "Full Frame CMOS (45MP)",
+        "shutter_speed": "2.5 sec (Long exposure)",
+        "aperture": "f/16 (Small aperture to extend exposure time and ensure deep depth of field)",
+        "iso": "100"
+    },
+    "lighting_setup": {
+        "time_of_day": "Civil Twilight (Overcast Evening)",
+        "weather": "Cloudy/Overcast sky creating a soft, diffuse, high-key white background",
+        "lighting_direction": "Mixed: Omni-directional soft skylight + Internal Warm Emission + Dynamic Street lighting",
+        "quality": "Soft shadowless ambient light contrasting with the hard streaks of car lights",
+        "artificial_light": "4000K interior office lighting, Amber and White horizontal light trails"
+    },
+    "color_grading": {
+        "palette": "White & Gold with Red Accents; Dominant cool white sky vs. Warm yellow interiors vs. Light red taillight streaks",
+        "saturation": "Natural to Desaturated (Sky/Trees), Vibrant (Lights)",
+        "contrast": "Medium-High (emphasizing the glowing box effect against the pale sky)"
+    },
+    "texture_quality": {
+        "details": "Razor-sharp vertical mullions, clear visibility of interior furniture through glass",
+        "surface_descriptions": "Translucent glass, motion-blurred light streaks on asphalt"
+    },
+    "composition_guide": {
+        "type": "2-Point Perspective",
+        "balance": "Layered Composition"
+    },
+    "atmosphere": {
+        "mood": "Dynamic, Urban, Translucent, Efficient",
+        "feeling": "The intersection of stillness (architecture) and speed (city life)"
+    },
+    "technical_quality": {
+        "post_processing": "Motion Blur capture (Light Trails), Perspective Correction (Shift), Highlight compression",
+        "white_balance": "Daylight (5500K) - Keeping the building structure neutral/cool, making the tungsten interior appear soft orange",
+        "tone": "High-Key Twilight (Bright sky, rich mid-tones)",
+        "vignette": "None",
+        "dynamic_range": "High (Balancing the bright overcast sky with the interior luminance)"
+    }
+}
